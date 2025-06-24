@@ -433,13 +433,13 @@ http://80.245.95.243:8888/play/a01k/index.m3u8
 http://80.245.95.243:8888/play/a22f/index.m3u8
 
 #EXTINF:-1 tvg-id="okko-football" group-title="Спортивные", Окко Футбол HD
-http://srv-5-streaming.iptvin.online:8080/okko_football/index.m3u8?token=45f2769e4416df515efcd9df8d0b7900f50fe87f-8994221394-1750845824-1750802624
+http://srv-5-streaming.iptvin.online:8080/okko_football/index.m3u8?token=78ada2bb9a8c9e34b086040e84d3b65f0e60f077-9314798355-1750849706-1750806506
 
 #EXTINF:-1 tvg-id="okko-sport" group-title="Спортивные", Окко Спорт HD
-http://srv-5-streaming.iptvin.online:8080/Okko_HD/index.m3u8?token=1635858889e68edc04ac3480c0126f71f9d15eff-8994221394-1750845824-1750802624
+http://srv-5-streaming.iptvin.online:8080/Okko_HD/index.m3u8?token=efca2b3552b54e1d9aa53df5d1255d96eaf31f63-9314798355-1750849706-1750806506
 
 #EXTINF:-1 tvg-id="okko-sport-2" group-title="Спортивные", Окко.Прайм Спорт
-http://srv-5-streaming.iptvin.online:8080/o.prim/index.m3u8?token=81174d758336851707aacdf46dd4e13a13bf1a5f-8994221394-1750845824-1750802624
+http://srv-5-streaming.iptvin.online:8080/o.prim/index.m3u8?token=8bcf2100bd0f72632e2b2ba1a55fd64accbf54f3-9314798355-1750849706-1750806506
 
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viju+ Sport
 http://178.134.1.158:8081/viasatsport/index.m3u8
