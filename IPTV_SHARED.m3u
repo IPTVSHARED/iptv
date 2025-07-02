@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/LOGO_FHD.mp4
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/QR.png" group-title="ИНФО", ПОДДЕРЖКА ПРОЕКТА
 https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/donat.mp4
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 02.07.2025г 05:00
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 02.07.2025г 10:40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -378,7 +378,7 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="match-boets" group-title="Спортивные", Матч! Боец
-http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="match-boets" group-title="Спортивные", Матч Боец
 http://77.235.1.19:8000/play/a008/index.m3u8
@@ -388,13 +388,13 @@ http://77.235.1.19:8000/play/a008/index.m3u8
 https://mhd128.iptv2022.com/p/Ew3KAGHY6d52U-R0uiUOWA,1751490014/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="match-igra" group-title="Спортивные", Матч! Игра
-http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Матч! Игра HD
 http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="match-nash-sport" group-title="Спортивные", Матч! Страна
-http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные", Матч Страна
 http://77.235.1.19:8000/play/a00f/index.m3u8
@@ -447,13 +447,13 @@ http://80.245.95.243:8888/play/a22f/index.m3u8
 http://178.134.1.158:8081/viasatsport/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="viasat-sport" group-title="Спортивные",Viju+ Sport HD
-http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="footbolny" group-title="Спортивные", Мяч
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="football-ru" group-title="Спортивные", Футбол
-http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="voleybol" tvg-logo="https://epg.iptvx.one/picons/voleybol.png" group-title="Спортивные", Волейбол HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -463,7 +463,7 @@ https://mhd128.iptv2022.com/p/J-qRTD7lYfhxX5dxRWWxPA,1751490025/streaming/volley
 https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="kxl" group-title="Спортивные", КХЛ
-http://api.peers.tv/timeshift/khl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/khl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="kxl" group-title="Спортивные", KHL
 http://178.124.152.238:8088/khl
@@ -511,7 +511,7 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/chunklist_b2660000_s
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="mir-basketbola" group-title="Спортивные", Мир баскетбола
-http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="trace-sport-stars" group-title="Спортивные", Trace Sport Start [RU]
 http://87.120.142.11:18000/Rossiya1
@@ -903,7 +903,7 @@ http://178.217.72.66:8080/Viasat_History/index.m3u8
 https://vod.splay.uz/live_splay/original/Viasat_History/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательные",Viju History HD
-http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные", Viju Nature
 http://178.217.72.66:8080/Viasat_Nature/index.m3u8
@@ -912,7 +912,7 @@ http://178.217.72.66:8080/Viasat_Nature/index.m3u8
 https://vod.splay.uz/live_splay/original/Viasat_History/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="viasat-nature" group-title="Познавательные", Viju Nature HD
-http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Познавательные",Viju Explore
 http://178.217.72.66:8080/Viasat_Explorer/index.m3u8
@@ -921,20 +921,20 @@ http://178.217.72.66:8080/Viasat_Explorer/index.m3u8
 https://vod.splay.uz/live_splay/original/Viasat_Explorer/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательные",Viju Explore HD
-http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Познавательные",viju+ Planet HD
 http://77.235.1.19:8000/play/a05m/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="terra-ru" group-title="Познавательные",Terra
-http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные",Terra HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="tayna" group-title="Познавательные", Тайна
-http://api.peers.tv/timeshift/tayna/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/tayna/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="ocean-tv" group-title="Познавательные", Ocean TV
 https://stream-msk-09.ott.tricolor.tv/dtv/id872_MSKSG-PVR-1--OCEAN_TV/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
@@ -946,7 +946,7 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1010_MSKSG-PVR-1--russian_ship_HD/0
 https://vod.splay.uz/live_splay/original/TayniGalaktiki/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="galaxy-tv" group-title="Познавательные", Galaxy
-http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
 http://5.134.87.11:4600/NatGeoWild/index.m3u8
@@ -983,10 +983,10 @@ https://mhd128.iptv2022.com/p/AS9IrAyYN1xomMm9Q2FDpQ,1751490011/streaming/pmobil
 https://stream-msk-15.ott.tricolor.tv/dtv/id1011_MSKSG-PVR-1--Epic_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="the-explorers" group-title="Познавательные", The Explorers HD
-http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="docubox-hd" group-title="Познавательные", DocuBox HD
-http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="tlc" group-title="Познавательные", TLC Россия HD
 http://s1.merlive.am/tlc/index.m3u8
@@ -999,7 +999,7 @@ http://80.245.95.243:8888/play/a017/index.m3u8
 https://mhd128.iptv2022.com/p/PTMDeNyWzbZHLFLNKJPzMg,1751490013/streaming/voprosi-otveti/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="mir-uvlecheniy" tvg-logo="https://iptvx.one/picons/mir-uvlecheniy.png" group-title="Познавательные", #КтоКуда
-http://api.peers.tv/timeshift/mir_uvlecheniy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/mir_uvlecheniy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="myy" tvg-logo="https://iptvx.one/picons/myy.png" group-title="Познавательные", МЫ
 https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
@@ -1035,7 +1035,7 @@ http://178.212.71.253:8000/play/94/index.m3u8
 http://stream-msk-04.ott.tricolor.tv/dtv/id158_MSKSG-PVR-1--HD_Teletr/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательные", Драйв
-http://api.peers.tv/timeshift/drive/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/drive/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="avto24" group-title="Познавательные", Авто 24
 https://vod.splay.uz/live_splay/original/Avto24/mono.ts.m3u8
@@ -1074,7 +1074,7 @@ http://stream-msk-03.ott.tricolor.tv/dtv/id159_MSKSG-PVR-1--HD_Eureka/03/plst.m3
 https://stream-msk-13.ott.tricolor.tv/dtv/id671_MSKSG-PVR-1--Nano_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="usadba" group-title="Познавательные", Усадьба
-http://api.peers.tv/timeshift/usadba/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/usadba/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="Познавательные", Загородная жизнь
 http://185.57.68.33/40/mpegts
@@ -1086,7 +1086,7 @@ http://stream-msk-09.ott.tricolor.tv/dtv/id155_MSKSG-PVR-1--Zagorod_TV/04/plst.m
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id615_MSKSG-PVR-1--Zagorodniy_int_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="psixologia-21" group-title="Познавательные",Психология 21
-http://api.peers.tv/timeshift/psych_21/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/psych_21/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet", Animal Planet
 https://vod.splay.uz/live_splay/original/Animal_Planet/mono.ts.m3u8
@@ -1098,7 +1098,7 @@ http://178.217.72.66:8080/big_planet/index.m3u8
 https://vod.splay.uz/live_splay/original/365Dney/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="365-dnej" group-title="Познавательные", 365 дней HD
-http://api.peers.tv/timeshift/365_days/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/365_days/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="kto-est-kto" group-title="Познавательные",Кто есть кто
 http://217.113.25.29:8001/play/a01w/index.m3u8
@@ -1119,7 +1119,7 @@ http://tv.streams.baikal-telecom.net:8080/RTG_HD/index.m3u8
 http://178.124.152.238:8088/rtg
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="glazami-turista" group-title="Познавательные", Глазами туриста
-http://api.peers.tv/timeshift/glazami_turista_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/glazami_turista_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Познавательные",Оружие
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Oruzhie.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
@@ -1131,7 +1131,7 @@ https://stream-msk-03.ott.tricolor.tv:443/dtv/id634_MSKSG-PVR-1--Arsenal_HD/04/p
 https://stream-msk-11.ott.tricolor.tv/dtv/id654_MSKSG-PVR-1--Centralnoe_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="muzhskoy" group-title="Познавательные", Мужской
-http://api.peers.tv/timeshift/muzhskoj/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/muzhskoj/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="dikiy" group-title="Познавательные", Дикий
 http://178.217.72.66:8080/Dikiy/video.m3u8
@@ -1148,10 +1148,10 @@ https://mhd128.iptv2022.com/p/DFkik7eS13KozHzFm6sG8w,1751490010/streaming/ribalk
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="oxota-i-rybalka" group-title="Познавательные",Охота и рыбалка
-http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="dialogi-o-rybalke" group-title="Познавательные", Диалоги о рыбалке
-http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Познавательные",Охотник и рыболов HD
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Oh_Rbl.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
@@ -1191,7 +1191,7 @@ https://vod.splay.uz/live_splay/original/HDL_HD/mono.ts.m3u8
 http://178.134.1.158:8081/zoopark/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="zoopark" group-title="Познавательные", ZooПарк
-http://api.peers.tv/timeshift/zoopark/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/zoopark/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Познавательные",Живая Планета
 https://stream-msk-05.ott.tricolor.tv:443/dtv/id267_MSKSG-PVR-1--Zhivaya_Planeta/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
@@ -1233,23 +1233,23 @@ https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="nasha-sibir" group-title="Познавательные", Наша Сибирь HD
-http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.iptv.rt.ru/images/ch4dk93mhk079s3jpo50.png" group-title="Кино и сериалы",Всё ТВ Трейлеры
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ PREMIERE HD
-http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VIJU+ MEGAHIT HD
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ COMEDY HD
-http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ SERIAL HD
-http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кино и сериалы",Феникс+Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
@@ -1265,7 +1265,7 @@ https://stream-msk-18.ott.tricolor.tv:443/dtv/id992_MSKSG-PVR-1--Kineko_HD/04/pl
 https://stream-msk-17.ott.tricolor.tv/dtv/id991_MSKSG-PVR-1--Sapphire_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",viju TV1000 Русское
-http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",viju TV1000 Русское HD
 https://vod.splay.uz/live_splay/original/TV1000rus/mono.ts.m3u8
@@ -1316,13 +1316,13 @@ https://stream-msk-13.ott.tricolor.tv/dtv/id705_MSKSG-PVR-1--Amedia_premium/04/p
 http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", .black
-http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", .red
-http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", .sci-fi
-http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="Кино и сериалы", TV21
 http://178.217.72.66:8080/TV_XXI/index.m3u8
@@ -1343,13 +1343,13 @@ https://stream-msk-01.ott.tricolor.tv/dtv/id864_MSKSG-PVR-1--Start_World/04/plst
 https://vod.splay.uz/live_splay/original/Star_Cinema/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="star-cinema" group-title="Кино и сериалы", Star Cinema HD
-http://hls.peers.tv/streaming/star_cinema_hd/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://hls.peers.tv/streaming/star_cinema_hd/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="star-family" group-title="Кино и сериалы", Star Family
 http://77.235.1.19:8000/play/a042/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="star-family" group-title="Кино и сериалы", Star Family HD
-http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="312-kino" group-title="Кино и сериалы", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
@@ -1370,7 +1370,7 @@ http://178.212.71.253:8001/play/144/index.m3u8
 http://s1.merlive.am/Kinoman/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="bolt-ru" group-title="Кино и сериалы", Bolt Россия HD
-http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="patriot" group-title="Кино и сериалы", Патриот
 https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
@@ -1471,25 +1471,25 @@ https://mhd128.iptv2022.com/p/gVYYbYixP-kOSVKsuULaLA,1751490008/streaming/kinoli
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="kinosat" group-title="Кино и сериалы", Киносат
-http://api.peers.tv/timeshift/kinosat/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/kinosat/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="khit-hd" group-title="Кино и сериалы", Хит HD
 http://stream-msk-09.ott.tricolor.tv/dtv/id644_MSKSG-PVR-1--Hit_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="filmbox-ru" group-title="Кино и сериалы", FilmBox Russia
-http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="filmbox-arthouse" group-title="Кино и сериалы", FilmBox ArtHouse
-http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="timeless-dizi" group-title="Кино и сериалы", Timeless Dizi Channel
-http://api.peers.tv/timeshift/timeless_dizi_channel/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/timeless_dizi_channel/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы",Телекафе
 https://stream-msk-09.ott.tricolor.tv/dtv/id366_MSKSG-PVR-1--Telecafe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Индия
-http://api.peers.tv/timeshift/zee-tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/zee-tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="pro100" group-title="Кино и сериалы", Про100 ТВ
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
@@ -1507,68 +1507,68 @@ http://188.237.47.212:6008
 http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="lubimoe-kino" group-title="Кино и сериалы", Любимое кино
-http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы",Кинопремьера
 https://vod.splay.uz/live_splay/original/Kinopremera/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Кинопремьера HD
-http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1.group-title="Кино и сериалы", Кинохит
 https://vod.splay.uz/live_splay/original/Kinoxit/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Кинохит HD
-http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы",Киносемья
 https://vod.splay.uz/live_splay/original/Kinosemya/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Киносемья HD
-http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание
 https://vod.splay.uz/live_splay/original/Kinosvidanie/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносвидание HD
-http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы",Киномикс
 https://vod.splay.uz/live_splay/original/KinomiksHD/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Киномикс HD
-http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы", Киносерия
 https://vod.splay.uz/live_splay/original/Kinoseriya/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносерия HD
-http://api.peers.tv/timeshift/kinoseriya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/kinoseriya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Кино и сериалы", Киноужас
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/Ig7AmjGl_w61FTSvVENsZg,1751490007/streaming/kinoujas/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="kinouzhas" group-title="Кино и сериалы", Киноужас HD
-http://api.peers.tv/timeshift/kinouzhas/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/kinouzhas/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Кино и сериалы",Наше новое кино
 https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="nashe-novoe-kino" group-title="Кино и сериалы",Наше новое кино HD
-http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы",Кинокомедия
 https://vod.splay.uz/live_splay/original/Kinokomediya/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Кинокомедия HD
-http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Кино и сериалы", Индийское кино
 https://vod.splay.uz/live_splay/original/Indiyskoe_Kino/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="indiyskoe-kino" group-title="Кино и сериалы", Индийское кино HD
-http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Кино и сериалы",Родное кино
 https://vod.splay.uz/live_splay/original/Rodnoe_Kino/mono.ts.m3u8
@@ -1589,7 +1589,7 @@ http://stream-msk-14.ott.tricolor.tv/dtv/id545_MSKSG-PVR-1--Pobeda/03/plst.m3u8?
 http://178.217.72.66:8080/pobeda/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="pobeda" group-title="Кино и сериалы", Победа HD
-http://api.peers.tv/timeshift/pobeda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/pobeda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="shot-tv" group-title="Кино и сериалы", Shot TV
 http://77.235.1.19:8000/play/a075/index.m3u8
@@ -1628,7 +1628,7 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/p
 http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Иллюзион +
-http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Кино и сериалы", Мосфильм. Золотая коллекция
 http://178.212.71.253:8000/play/124/index.m3u8
@@ -1652,7 +1652,7 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_slen
 http://stream-msk-10.ott.tricolor.tv/dtv/id640_MSKSG-PVR-1--Bollywood/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Мир сериала
-http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы", Время
 http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
@@ -1678,8 +1678,11 @@ https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", ВсёТВHD
 https://132544.edgevideo.ru/streams/132544_902681/132544720/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://sun1-28.userapi.com/s/v1/ig2/QskYNOQspELa4M4U9R8ROD2c58C_xc-UxsooBHJMZZdy1qf2T9voHz4pBehKyirLPtlDlToYIiBuuZlCD-GUxjO_.jpg?quality=95&crop=49,49,400,400&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=200x200" tvg-id="no_epg_cinema" group-title="Кинозалы", VHDV TV
+https://132544.edgevideo.ru/streams/132544_932006/132544720/index.m3u8
+
 #EXTINF:-1 tvg-id="vhska-serial" group-title="Кинозалы", VHS-ка HD
-http://5.16.37.27:81/udp/235.10.10.86:1234
+http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/43992/hls/pl.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Malder - Megahit
 https://autopilot.catcast.tv/content/47689/index.m3u8
@@ -1927,737 +1930,6 @@ https://live-mirror-20.ott.tricolor.tv/dtv/id1038_MSKSG-PVR-1--Kinozal_32/03/pls
 
 #EXTINF:-1 tvg-logo="https://cdn.nur.kz/images/1120x630/pogudx2cojg2jtu6kg.jpeg" tvg-id="no_epg_cinema" group-title="Кинозалы 2", ВОСТОК-ЗАПАД
 https://live-mirror-18.ott.tricolor.tv/dtv/id1035_MSKSG-PVR-1--Kinozal_33/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms black cinema" group-title="Кинозалы CMS",CMS Black Cinema
-http://cdn1.starcinemax.fun:2095/0300/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms cinema 90-х" group-title="Кинозалы CMS",CMS Cinema 90-х
-http://cdn2.starcinemax.fun:2095/3022/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms cinema asia" group-title="Кинозалы CMS",CMS Cinema Asia
-http://cdn2.starcinemax.fun:2095/0503/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms cinema horror kids" group-title="Кинозалы CMS",CMS Cinema Horror Kids
-http://cdn2.starcinemax.fun:2095/3012/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms cinema sport" group-title="Кинозалы CMS",CMS Cinema Sport
-http://cdn2.starcinemax.fun:2095/0926/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms cinema teens" group-title="Кинозалы CMS",CMS Cinema Teens
-http://cdn2.starcinemax.fun:2095/3016/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms cinema woman" group-title="Кинозалы CMS",CMS Cinema Woman
-http://cdn2.starcinemax.fun:2095/3013/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms cinema аnimals" group-title="Кинозалы CMS",CMS Cinema Аnimals
-http://cdn2.starcinemax.fun:2095/3014/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms game movie" group-title="Кинозалы CMS",CMS Game movie
-http://cdn2.starcinemax.fun:2095/3064/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms hbo" group-title="Кинозалы CMS",CMS HBO
-http://cdn2.starcinemax.fun:2095/0921/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms marvel" group-title="Кинозалы CMS",CMS Marvel
-http://cdn1.starcinemax.fun:2095/0049/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms rucomedy" group-title="Кинозалы CMS",CMS RUComedy
-http://cdn2.starcinemax.fun:2095/0915/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms агент 007" group-title="Кинозалы CMS",CMS Агент 007
-http://cdn1.starcinemax.fun:2095/0094/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms агент национальной безопасности" group-title="Кинозалы CMS",CMS Агент национальной безопасности
-http://cdn2.starcinemax.fun:2095/3038/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms адам сендлер" group-title="Кинозалы CMS",CMS Адам Сендлер
-http://cdn2.starcinemax.fun:2095/3019/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms академия амбрелла" group-title="Кинозалы CMS",CMS Академия "Амбрелла"
-http://cdn2.starcinemax.fun:2095/3000/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms александр абдулов" group-title="Кинозалы CMS",CMS Александр Абдулов
-http://cdn2.starcinemax.fun:2095/0817/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms александр михайлов" group-title="Кинозалы CMS",CMS Александр Михайлов
-http://cdn2.starcinemax.fun:2095/2024010/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms александр панкратов-чёрный" group-title="Кинозалы CMS",CMS Александр Панкратов-Чёрный
-http://cdn2.starcinemax.fun:2095/0924/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms алексей балабанов" group-title="Кинозалы CMS",CMS Алексей Балабанов
-http://cdn1.starcinemax.fun:2095/0169/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms алексей серебряков" group-title="Кинозалы CMS",CMS Алексей Серебряков
-http://cdn2.starcinemax.fun:2095/0925/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms аль пачино" group-title="Кинозалы CMS",CMS Аль Пачино
-http://cdn1.starcinemax.fun:2095/0303/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms альф" group-title="Кинозалы CMS",CMS Альф
-http://cdn1.starcinemax.fun:2095/0349/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms альфред хичкок" group-title="Кинозалы CMS",CMS Альфред Хичкок
-http://cdn2.starcinemax.fun:2095/3032/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms ангелы и демоны" group-title="Кинозалы CMS",CMS Ангелы и демоны
-http://cdn2.starcinemax.fun:2095/3009/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms андрей мерзликин" group-title="Кинозалы CMS",CMS Андрей Мерзликин
-http://cdn2.starcinemax.fun:2095/0634/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms андрей миронов" group-title="Кинозалы CMS",CMS Андрей Миронов
-http://cdn2.starcinemax.fun:2095/0911/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms андрей федорцов" group-title="Кинозалы CMS",CMS Андрей Федорцов
-http://cdn1.starcinemax.fun:2095/0423/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms андриано челентано" group-title="Кинозалы CMS",CMS Андриано Челентано
-http://cdn1.starcinemax.fun:2095/0340/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms антонио бандерас" group-title="Кинозалы CMS",CMS Антонио Бандерас
-http://cdn1.starcinemax.fun:2095/0376/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms армен джигарханян" group-title="Кинозалы CMS",CMS Армен Джигарханян
-http://cdn2.starcinemax.fun:2095/0816/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms арнольнд шварцнегер" group-title="Кинозалы CMS",CMS Арнольнд Шварцнегер
-http://cdn1.starcinemax.fun:2095/0064/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms байки митяя" group-title="Кинозалы CMS",CMS Байки Митяя
-http://cdn1.starcinemax.fun:2095/0145/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms байки из склепа" group-title="Кинозалы CMS",CMS Байки из склепа
-http://cdn1.starcinemax.fun:2095/0350/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms баффи – истреб. вампиров" group-title="Кинозалы CMS",CMS Баффи – истреб. вампиров
-http://cdn1.starcinemax.fun:2095/0351/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms беверли-хиллз 90210" group-title="Кинозалы CMS",CMS Беверли-Хиллз 90210
-http://cdn1.starcinemax.fun:2095/0352/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms бедная настя" group-title="Кинозалы CMS",CMS Бедная Настя
-http://cdn1.starcinemax.fun:2095/0353/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms боец" group-title="Кинозалы CMS",CMS Боец
-http://cdn1.starcinemax.fun:2095/0438/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms боишься ли ты темноты?" group-title="Кинозалы CMS",CMS Боишься ли ты темноты?
-http://cdn2.starcinemax.fun:2095/3053/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms борис новиков" group-title="Кинозалы CMS",CMS Борис Новиков
-http://cdn2.starcinemax.fun:2095/2024001/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms борислав брондуков" group-title="Кинозалы CMS",CMS Борислав Брондуков
-http://cdn2.starcinemax.fun:2095/0635/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms бред пит" group-title="Кинозалы CMS",CMS Бред Пит
-http://cdn2.starcinemax.fun:2095/0919/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms бригада" group-title="Кинозалы CMS",CMS Бригада
-http://cdn2.starcinemax.fun:2095/0917/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms брюс уиллис" group-title="Кинозалы CMS",CMS Брюс Уиллис
-http://cdn1.starcinemax.fun:2095/0117/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms валентин гафт" group-title="Кинозалы CMS",CMS Валентин Гафт
-http://cdn1.starcinemax.fun:2095/0406/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms вампир" group-title="Кинозалы CMS",CMS Вампир
-http://cdn1.starcinemax.fun:2095/0053/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms ваш любимый детектив" group-title="Кинозалы CMS",CMS Ваш любимый детектив
-http://cdn1.starcinemax.fun:2095/0005/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms великолепный век" group-title="Кинозалы CMS",CMS Великолепный век
-http://cdn1.starcinemax.fun:2095/0355/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms вестерн" group-title="Кинозалы CMS",CMS Вестерн
-http://cdn1.starcinemax.fun:2095/0192/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms виктор сухоруков" group-title="Кинозалы CMS",CMS Виктор Сухоруков
-http://cdn1.starcinemax.fun:2095/0426/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms вин дизель" group-title="Кинозалы CMS",CMS Вин Дизель
-http://cdn1.starcinemax.fun:2095/0081/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms вирусы и эпидемии" group-title="Кинозалы CMS",CMS Вирусы и эпидемии
-http://cdn2.starcinemax.fun:2095/3025/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms владимир вдовиченков" group-title="Кинозалы CMS",CMS Владимир Вдовиченков
-http://cdn2.starcinemax.fun:2095/0632/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms владимир высоцкий" group-title="Кинозалы CMS",CMS Владимир Высоцкий
-http://cdn2.starcinemax.fun:2095/7008/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms владимир епифанцев" group-title="Кинозалы CMS",CMS Владимир Епифанцев
-http://cdn2.starcinemax.fun:2095/0644/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms владимир ильин" group-title="Кинозалы CMS",CMS Владимир Ильин
-http://cdn1.starcinemax.fun:2095/0381/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms вне закона" group-title="Кинозалы CMS",CMS Вне закона
-http://cdn1.starcinemax.fun:2095/00115/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms во все тяжкие" group-title="Кинозалы CMS",CMS Во все тяжкие
-http://cdn1.starcinemax.fun:2095/0356/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms вовочка" group-title="Кинозалы CMS",CMS Вовочка
-http://cdn1.starcinemax.fun:2095/0436/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms военные сериалы" group-title="Кинозалы CMS",CMS Военные сериалы
-http://cdn1.starcinemax.fun:2095/0405/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms возвращение в эдем" group-title="Кинозалы CMS",CMS Возвращение в Эдем
-http://cdn1.starcinemax.fun:2095/0430/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms воронины" group-title="Кинозалы CMS",CMS Воронины
-http://cdn1.starcinemax.fun:2095/0121/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms восьмидесятые" group-title="Кинозалы CMS",CMS Восьмидесятые
-http://cdn1.starcinemax.fun:2095/0402/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms всеволод санаев" group-title="Кинозалы CMS",CMS Всеволод Санаев
-http://cdn2.starcinemax.fun:2095/2024002/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms вуди аллен" group-title="Кинозалы CMS",CMS Вуди Аллен
-http://cdn1.starcinemax.fun:2095/0380/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms галина польских" group-title="Кинозалы CMS",CMS Галина Польских
-http://cdn2.starcinemax.fun:2095/2024003/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms гоблин" group-title="Кинозалы CMS",CMS Гоблин
-http://cdn2.starcinemax.fun:2095/0639/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms годзилла" group-title="Кинозалы CMS",CMS Годзилла
-http://cdn2.starcinemax.fun:2095/3010/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms гоша куценко" group-title="Кинозалы CMS",CMS Гоша Куценко
-http://cdn2.starcinemax.fun:2095/0633/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms гром в раю" group-title="Кинозалы CMS",CMS Гром в раю
-http://cdn1.starcinemax.fun:2095/0431/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms гэри дэниелс" group-title="Кинозалы CMS",CMS Гэри Дэниелс
-http://cdn2.starcinemax.fun:2095/3050/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms джет лі" group-title="Кинозалы CMS",CMS ДЖЕТ ЛІ
-http://cdn2.starcinemax.fun:2095/0918/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms да лунный" group-title="Кинозалы CMS",CMS Да "Лунный свет"
-http://cdn1.starcinemax.fun:2095/0358/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms дальнобойщики" group-title="Кинозалы CMS",CMS Дальнобойщики
-http://cdn2.starcinemax.fun:2095/0705/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms данила козловский" group-title="Кинозалы CMS",CMS Данила Козловский
-http://cdn1.starcinemax.fun:2095/0342/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms девушки с макаровым" group-title="Кинозалы CMS",CMS Девушки с Макаровым
-http://cdn1.starcinemax.fun:2095/0391/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms дежурная аптека" group-title="Кинозалы CMS",CMS Дежурная аптека
-http://cdn1.starcinemax.fun:2095/0357/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms деми мур" group-title="Кинозалы CMS",CMS Деми Мур
-http://cdn1.starcinemax.fun:2095/0305/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms джейсон стэйтем" group-title="Кинозалы CMS",CMS Джейсон Стэйтем
-http://cdn1.starcinemax.fun:2095/0103/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms джеки чан" group-title="Кинозалы CMS",CMS Джеки Чан
-http://cdn1.starcinemax.fun:2095/0073/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms джим керри" group-title="Кинозалы CMS",CMS Джим Керри
-http://cdn1.starcinemax.fun:2095/0110/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms джон траволта" group-title="Кинозалы CMS",CMS Джон Траволта
-http://cdn2.starcinemax.fun:2095/3033/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms джонни депп" group-title="Кинозалы CMS",CMS Джонни Депп
-http://cdn1.starcinemax.fun:2095/0307/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms джордж клуни" group-title="Кинозалы CMS",CMS Джордж Клуни
-http://cdn1.starcinemax.fun:2095/0308/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms джулия робертс" group-title="Кинозалы CMS",CMS Джулия Робертс
-http://cdn1.starcinemax.fun:2095/0309/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms дмитрий харатьян" group-title="Кинозалы CMS",CMS Дмитрий Харатьян
-http://cdn1.starcinemax.fun:2095/0410/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms доктор куин: женщина-врач" group-title="Кинозалы CMS",CMS Доктор Куин: Женщина-врач
-http://cdn2.starcinemax.fun:2095/3043/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms доктор хаус" group-title="Кинозалы CMS",CMS Доктор хаус
-http://cdn2.starcinemax.fun:2095/0648/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms дольф лундгрен" group-title="Кинозалы CMS",CMS Дольф Лундгрен
-http://cdn2.starcinemax.fun:2095/0920/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms дон дракон уилсон" group-title="Кинозалы CMS",CMS Дон Дракон Уилсон
-http://cdn2.starcinemax.fun:2095/3017/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms драмы" group-title="Кинозалы CMS",CMS Драмы
-http://cdn1.starcinemax.fun:2095/0310/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms дрейк и джош" group-title="Кинозалы CMS",CMS Дрейк и Джош
-http://cdn2.starcinemax.fun:2095/0973/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms друзья" group-title="Кинозалы CMS",CMS Друзья
-http://cdn1.starcinemax.fun:2095/0372/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms дрю бэрримор" group-title="Кинозалы CMS",CMS Дрю Бэрримор
-http://cdn1.starcinemax.fun:2095/0343/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms дубляж" group-title="Кинозалы CMS",CMS Дубляж
-http://cdn1.starcinemax.fun:2095/0190/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms евгений евстигнеев" group-title="Кинозалы CMS",CMS Евгений Евстигнеев
-http://cdn1.starcinemax.fun:2095/0449/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms евгений леонов" group-title="Кинозалы CMS",CMS Евгений Леонов
-http://cdn2.starcinemax.fun:2095/0903/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms евгений моргунов" group-title="Кинозалы CMS",CMS Евгений Моргунов
-http://cdn2.starcinemax.fun:2095/2024004/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms ее звали никита" group-title="Кинозалы CMS",CMS Ее звали Никита
-http://cdn1.starcinemax.fun:2095/0360/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms ежи штур" group-title="Кинозалы CMS",CMS Ежи Штур
-http://cdn2.starcinemax.fun:2095/0637/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms жан клод вандам" group-title="Кинозалы CMS",CMS Жан клод вандам
-http://cdn1.starcinemax.fun:2095/0106/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms жан поль бельмондо" group-title="Кинозалы CMS",CMS Жан поль Бельмондо
-http://cdn1.starcinemax.fun:2095/0213/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms женаты и с детьми" group-title="Кинозалы CMS",CMS Женаты и с детьми
-http://cdn1.starcinemax.fun:2095/0432/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms женщина в любви" group-title="Кинозалы CMS",CMS Женщина в любви
-http://cdn1.starcinemax.fun:2095/0455/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms жестокий ангел" group-title="Кинозалы CMS",CMS Жестокий ангел
-http://cdn1.starcinemax.fun:2095/0457/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms жуки" group-title="Кинозалы CMS",CMS Жуки
-http://cdn2.starcinemax.fun:2095/3061/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms звездный путь" group-title="Кинозалы CMS",CMS Звездный путь
-http://cdn2.starcinemax.fun:2095/09211/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms звездный путь  вояджер" group-title="Кинозалы CMS",CMS Звездный путь  Вояджер
-http://cdn2.starcinemax.fun:2095/09212/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms звёздные врата: атлантида" group-title="Кинозалы CMS",CMS Звёздные врата: Атлантида
-http://cdn1.starcinemax.fun:2095/0407/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms земля любви" group-title="Кинозалы CMS",CMS Земля любви
-http://cdn1.starcinemax.fun:2095/0458/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms зена" group-title="Кинозалы CMS",CMS Зена
-http://cdn1.starcinemax.fun:2095/0361/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms зона. тюремный роман" group-title="Кинозалы CMS",CMS Зона. Тюремный роман
-http://cdn1.starcinemax.fun:2095/0452/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms ивановы-ивановы" group-title="Кинозалы CMS",CMS Ивановы-Ивановы
-http://cdn1.starcinemax.fun:2095/0118/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms игра престолов" group-title="Кинозалы CMS",CMS Игра престолов
-http://cdn1.starcinemax.fun:2095/0059/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms индия" group-title="Кинозалы CMS",CMS Индия
-http://cdn2.starcinemax.fun:2095/0825/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms интерны" group-title="Кинозалы CMS",CMS Интерны
-http://cdn2.starcinemax.fun:2095/3037/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms ищейка" group-title="Кинозалы CMS",CMS Ищейка
-http://cdn1.starcinemax.fun:2095/0390/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms каменская" group-title="Кинозалы CMS",CMS Каменская
-http://cdn1.starcinemax.fun:2095/0320/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms каратэ" group-title="Кинозалы CMS",CMS Каратэ
-http://cdn2.starcinemax.fun:2095/0907/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms киборг" group-title="Кинозалы CMS",CMS Киборг
-http://cdn2.starcinemax.fun:2095/3011/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms киллиан мёрфи" group-title="Кинозалы CMS",CMS Киллиан Мёрфи
-http://cdn1.starcinemax.fun:2095/0384/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms кира найтли" group-title="Кинозалы CMS",CMS Кира Найтли
-http://cdn2.starcinemax.fun:2095/0824/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms клан сопрано" group-title="Кинозалы CMS",CMS Клан Сопрано
-http://cdn2.starcinemax.fun:2095/3001/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms клиника" group-title="Кинозалы CMS",CMS Клиника
-http://cdn1.starcinemax.fun:2095/0401/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms клон" group-title="Кинозалы CMS",CMS Клон
-http://cdn1.starcinemax.fun:2095/0454/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms коломбо" group-title="Кинозалы CMS",CMS Коломбо
-http://cdn2.starcinemax.fun:2095/0813/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms комедия! комедия!!!" group-title="Кинозалы CMS",CMS Комедия! Комедия!!!
-http://cdn1.starcinemax.fun:2095/0011/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms константин хабенский" group-title="Кинозалы CMS",CMS Константин Хабенский
-http://cdn1.starcinemax.fun:2095/0379/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms крис коламбус" group-title="Кинозалы CMS",CMS Крис Коламбус
-http://cdn2.starcinemax.fun:2095/0922/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms круги ада" group-title="Кинозалы CMS",CMS Круги Ада
-http://cdn1.starcinemax.fun:2095/0062/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms крутой уокер" group-title="Кинозалы CMS",CMS Крутой Уокер
-http://cdn1.starcinemax.fun:2095/0362/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms кухня" group-title="Кинозалы CMS",CMS Кухня
-http://cdn1.starcinemax.fun:2095/0371/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms кэмерон диас" group-title="Кинозалы CMS",CMS Кэмерон Диас
-http://cdn1.starcinemax.fun:2095/0311/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms лев дуров" group-title="Кинозалы CMS",CMS Лев Дуров
-http://cdn1.starcinemax.fun:2095/0427/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms леонардо ди каприо" group-title="Кинозалы CMS",CMS Леонардо Ди Каприо
-http://cdn1.starcinemax.fun:2095/0312/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms леонид гайдай" group-title="Кинозалы CMS",CMS Леонид Гайдай
-http://cdn1.starcinemax.fun:2095/0107/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms леонид куравлёв" group-title="Кинозалы CMS",CMS Леонид Куравлёв
-http://cdn1.starcinemax.fun:2095/0218/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms леонид ярмольник" group-title="Кинозалы CMS",CMS Леонид Ярмольник
-http://cdn2.starcinemax.fun:2095/0461/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms луи де фюнес" group-title="Кинозалы CMS",CMS Луи де Фюнес
-http://cdn1.starcinemax.fun:2095/0072/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms любовь полищук" group-title="Кинозалы CMS",CMS Любовь Полищук
-http://cdn2.starcinemax.fun:2095/2024005/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms любовь на районе" group-title="Кинозалы CMS",CMS Любовь на районе
-http://cdn1.starcinemax.fun:2095/0313/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms людмила гурченко" group-title="Кинозалы CMS",CMS Людмила Гурченко
-http://cdn1.starcinemax.fun:2095/0344/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms мажор" group-title="Кинозалы CMS",CMS Мажор
-http://cdn1.starcinemax.fun:2095/0363/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms майкл дуглас" group-title="Кинозалы CMS",CMS Майкл Дуглас
-http://cdn1.starcinemax.fun:2095/0345/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms марат башаров" group-title="Кинозалы CMS",CMS Марат Башаров
-http://cdn2.starcinemax.fun:2095/0631/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms маттиас хьюз" group-title="Кинозалы CMS",CMS Маттиас Хьюз
-http://cdn2.starcinemax.fun:2095/0652/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms мел гібсон" group-title="Кинозалы CMS",CMS Мел Гібсон
-http://cdn2.starcinemax.fun:2095/0923/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms ментовские войны" group-title="Кинозалы CMS",CMS Ментовские войны
-http://cdn2.starcinemax.fun:2095/0467/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms метод фрейда" group-title="Кинозалы CMS",CMS Метод Фрейда
-http://cdn1.starcinemax.fun:2095/0364/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms милиционер с рублёвки" group-title="Кинозалы CMS",CMS Милиционер с Рублёвки
-http://cdn1.starcinemax.fun:2095/0392/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms милла йовович" group-title="Кинозалы CMS",CMS Милла Йовович
-http://cdn1.starcinemax.fun:2095/0346/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms мир! дружба! жвачка!" group-title="Кинозалы CMS",CMS Мир! Дружба! Жвачка!
-http://cdn2.starcinemax.fun:2095/0927/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms мисс марпл агаты кристи" group-title="Кинозалы CMS",CMS Мисс Марпл Агаты Кристи
-http://cdn1.starcinemax.fun:2095/0386/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms мистер робот" group-title="Кинозалы CMS",CMS Мистер Робот
-http://cdn2.starcinemax.fun:2095/3002/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms михаил ефремов" group-title="Кинозалы CMS",CMS Михаил Ефремов
-http://cdn1.starcinemax.fun:2095/0347/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms михаил кокшенов" group-title="Кинозалы CMS",CMS Михаил Кокшенов
-http://cdn2.starcinemax.fun:2095/2024006/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms михаил пуговкин" group-title="Кинозалы CMS",CMS Михаил Пуговкин
-http://cdn1.starcinemax.fun:2095/0425/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms молодёжка" group-title="Кинозалы CMS",CMS Молодёжка
-http://cdn1.starcinemax.fun:2095/0387/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms мосгаз" group-title="Кинозалы CMS",CMS Мосгаз
-http://cdn2.starcinemax.fun:2095/0931/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms музыкальные фильмы" group-title="Кинозалы CMS",CMS Музыкальные фильмы
-http://cdn1.starcinemax.fun:2095/0015/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms мылодрама" group-title="Кинозалы CMS",CMS Мылодрама
-http://cdn2.starcinemax.fun:2095/0929/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms на ножах" group-title="Кинозалы CMS",CMS На ножах
-http://cdn1.starcinemax.fun:2095/0420/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms надежда румянцева" group-title="Кинозалы CMS",CMS Надежда Румянцева
-http://cdn2.starcinemax.fun:2095/0979/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms наследники" group-title="Кинозалы CMS",CMS Наследники
-http://cdn2.starcinemax.fun:2095/3004/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms не родись красивой" group-title="Кинозалы CMS",CMS Не родись красивой
-http://cdn2.starcinemax.fun:2095/0710/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms не сильный пол!" group-title="Кинозалы CMS",CMS Не сильный пол!
-http://cdn2.starcinemax.fun:2095/3065/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms николай караченцов" group-title="Кинозалы CMS",CMS Николай Караченцов
-http://cdn1.starcinemax.fun:2095/0424/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms николь кидман" group-title="Кинозалы CMS",CMS Николь Кидман
-http://cdn1.starcinemax.fun:2095/0403/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms никулин вицин" group-title="Кинозалы CMS",CMS Никулин Вицин
-http://cdn2.starcinemax.fun:2095/3063/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms нина гребешкова" group-title="Кинозалы CMS",CMS Нина Гребешкова
-http://cdn2.starcinemax.fun:2095/2024007/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms новая семейка аддамс" group-title="Кинозалы CMS",CMS Новая семейка Аддамс
-http://cdn2.starcinemax.fun:2095/3051/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms олег табаков" group-title="Кинозалы CMS",CMS Олег Табаков
-http://cdn2.starcinemax.fun:2095/0643/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms ольга" group-title="Кинозалы CMS",CMS Ольга
-http://cdn1.starcinemax.fun:2095/0412/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms она написала убийство" group-title="Кинозалы CMS",CMS Она написала убийство
-http://cdn2.starcinemax.fun:2095/3052/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms паоло вилладжо" group-title="Кинозалы CMS",CMS Паоло Вилладжо
-http://cdn2.starcinemax.fun:2095/0905/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms папины дочки" group-title="Кинозалы CMS",CMS Папины дочки
-http://cdn1.starcinemax.fun:2095/0335/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms первый пограничный" group-title="Кинозалы CMS",CMS Первый Пограничный
-http://cdn2.starcinemax.fun:2095/2024012/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms пес" group-title="Кинозалы CMS",CMS Пес
-http://cdn1.starcinemax.fun:2095/0400/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms планета обезьян" group-title="Кинозалы CMS",CMS Планета обезьян
-http://cdn2.starcinemax.fun:2095/3018/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms плащ и шпага" group-title="Кинозалы CMS",CMS Плащ и шпага
-http://cdn1.starcinemax.fun:2095/0388/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms по законам военного времени" group-title="Кинозалы CMS",CMS По законам военного времени
-http://cdn1.starcinemax.fun:2095/0101/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms полицейская академия" group-title="Кинозалы CMS",CMS Полицейская академия
-http://cdn2.starcinemax.fun:2095/3034/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms полицейский с рублевки" group-title="Кинозалы CMS",CMS Полицейский с Рублевки
-http://cdn2.starcinemax.fun:2095/3039/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms полтергейст: наследие" group-title="Кинозалы CMS",CMS Полтергейст: Наследие
-http://cdn2.starcinemax.fun:2095/3055/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms польские фильмы в советском прокате" group-title="Кинозалы CMS",CMS Польские фильмы в Советском прокате
-http://cdn2.starcinemax.fun:2095/0646/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms последний из магикян" group-title="Кинозалы CMS",CMS Последний из Магикян
-http://cdn1.starcinemax.fun:2095/0441/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms прапорщик шматко или ё-моё" group-title="Кинозалы CMS",CMS Прапорщик Шматко или Ё-моё
-http://cdn1.starcinemax.fun:2095/0437/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms просто мария" group-title="Кинозалы CMS",CMS Просто Мария
-http://cdn1.starcinemax.fun:2095/0450/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms пьер ришар" group-title="Кинозалы CMS",CMS Пьер Ришар
-http://cdn1.starcinemax.fun:2095/0124/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms пятница 13" group-title="Кинозалы CMS",CMS Пятница 13
-http://cdn1.starcinemax.fun:2095/0398/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms райкин аркадий" group-title="Кинозалы CMS",CMS Райкин Аркадий
-http://cdn1.starcinemax.fun:2095/0434/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms ридли скотт" group-title="Кинозалы CMS",CMS Ридли Скотт
-http://cdn1.starcinemax.fun:2095/0428/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms ролан быков" group-title="Кинозалы CMS",CMS Ролан Быков
-http://cdn2.starcinemax.fun:2095/0465/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms роман мадянов" group-title="Кинозалы CMS",CMS Роман Мадянов
-http://cdn2.starcinemax.fun:2095/2024008/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms савелий крамаров" group-title="Кинозалы CMS",CMS Савелий Крамаров
-http://cdn2.starcinemax.fun:2095/3035/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms сваты" group-title="Кинозалы CMS",CMS Сваты
-http://cdn2.starcinemax.fun:2095/3040/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms сверхъестественное" group-title="Кинозалы CMS",CMS Сверхъестественное
-http://cdn1.starcinemax.fun:2095/0147/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms своим ходом" group-title="Кинозалы CMS",CMS Своим ходом
-http://cdn2.starcinemax.fun:2095/3062/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms секретные материалы" group-title="Кинозалы CMS",CMS Секретные материалы
-http://cdn1.starcinemax.fun:2095/0359/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms семейные узы" group-title="Кинозалы CMS",CMS Семейные узы
-http://cdn1.starcinemax.fun:2095/0460/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms семейный" group-title="Кинозалы CMS",CMS Семейный
-http://cdn2.starcinemax.fun:2095/0910/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms семья" group-title="Кинозалы CMS",CMS Семья
-http://cdn1.starcinemax.fun:2095/0316/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms сеняфедя" group-title="Кинозалы CMS",CMS СеняФедя
-http://cdn1.starcinemax.fun:2095/0385/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms сергей бодров" group-title="Кинозалы CMS",CMS Сергей Бодров
-http://cdn2.starcinemax.fun:2095/0630/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms сергей гармаш" group-title="Кинозалы CMS",CMS Сергей Гармаш
-http://cdn2.starcinemax.fun:2095/3031/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms сергей филиппов" group-title="Кинозалы CMS",CMS Сергей Филиппов
-http://cdn2.starcinemax.fun:2095/2024009/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms сергей юрский" group-title="Кинозалы CMS",CMS Сергей Юрский
-http://cdn2.starcinemax.fun:2095/2024011/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms сериал крот" group-title="Кинозалы CMS",CMS Сериал крот
-http://cdn2.starcinemax.fun:2095/0645/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms синтия ротрок" group-title="Кинозалы CMS",CMS Синтия Ротрок
-http://cdn2.starcinemax.fun:2095/3015/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms склифасовский" group-title="Кинозалы CMS",CMS Склифасовский
-http://cdn1.starcinemax.fun:2095/0367/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms служба 911" group-title="Кинозалы CMS",CMS Служба 911
-http://cdn1.starcinemax.fun:2095/0366/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms советские детские фильмы" group-title="Кинозалы CMS",CMS Советские детские фильмы
-http://cdn1.starcinemax.fun:2095/00116/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms солдаты" group-title="Кинозалы CMS",CMS Солдаты
-http://cdn1.starcinemax.fun:2095/0125/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms спрут" group-title="Кинозалы CMS",CMS Спрут
-http://cdn1.starcinemax.fun:2095/0435/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms старый универ" group-title="Кинозалы CMS",CMS Старый Универ
-http://cdn2.starcinemax.fun:2095/0928/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms старый добрый фильм" group-title="Кинозалы CMS",CMS Старый добрый фильм
-http://cdn2.starcinemax.fun:2095/0909/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms стивен сигал" group-title="Кинозалы CMS",CMS Стивен Сигал
-http://cdn1.starcinemax.fun:2095/0071/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms стивен спилберг" group-title="Кинозалы CMS",CMS Стивен Спилберг
-http://cdn2.starcinemax.fun:2095/0916/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms сумеречная зона" group-title="Кинозалы CMS",CMS Сумеречная зона
-http://cdn2.starcinemax.fun:2095/3057/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms счастливы вместе" group-title="Кинозалы CMS",CMS Счастливы вместе
-http://cdn1.starcinemax.fun:2095/0306/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms тнт премьер" group-title="Кинозалы CMS",CMS ТНТ премьер
-http://cdn2.starcinemax.fun:2095/30000/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms твин пикс" group-title="Кинозалы CMS",CMS Твин Пикс
-http://cdn2.starcinemax.fun:2095/0821/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms теория большого взрыва" group-title="Кинозалы CMS",CMS Теория большого взрыва
-http://cdn1.starcinemax.fun:2095/0368/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms триллер" group-title="Кинозалы CMS",CMS Триллер
-http://cdn2.starcinemax.fun:2095/0900/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms тюрьма оз" group-title="Кинозалы CMS",CMS Тюрьма Оз
-http://cdn2.starcinemax.fun:2095/3054/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms убойная сила" group-title="Кинозалы CMS",CMS Убойная сила
-http://cdn2.starcinemax.fun:2095/0717/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms ужасы vhs" group-title="Кинозалы CMS",CMS Ужасы VHS
-http://cdn2.starcinemax.fun:2095/0912/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms уил смит" group-title="Кинозалы CMS",CMS Уил смит
-http://cdn1.starcinemax.fun:2095/0318/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms улицы разбитых фонарей" group-title="Кинозалы CMS",CMS Улицы разбитых фонарей
-http://cdn2.starcinemax.fun:2095/0930/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms фантастика" group-title="Кинозалы CMS",CMS Фантастика
-http://cdn2.starcinemax.fun:2095/0823/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms физрук" group-title="Кинозалы CMS",CMS Физрук
-http://cdn2.starcinemax.fun:2095/0731/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms фронт" group-title="Кинозалы CMS",CMS Фронт
-http://cdn1.starcinemax.fun:2095/0002/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms фёдор добронравов" group-title="Кинозалы CMS",CMS Фёдор Добронравов
-http://cdn2.starcinemax.fun:2095/0981/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms хозяйка судьбы" group-title="Кинозалы CMS",CMS Хозяйка судьбы
-http://cdn1.starcinemax.fun:2095/0451/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms чоп" group-title="Кинозалы CMS",CMS ЧОП
-http://cdn2.starcinemax.fun:2095/1400/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms чарли чаплин" group-title="Кинозалы CMS",CMS Чарли чаплин
-http://cdn2.starcinemax.fun:2095/7009/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms чарльз бронсон" group-title="Кинозалы CMS",CMS Чарльз Бронсон
-http://cdn1.starcinemax.fun:2095/0394/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms чернобль" group-title="Кинозалы CMS",CMS Чернобль
-http://cdn1.starcinemax.fun:2095/0047/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms эдди мерфи" group-title="Кинозалы CMS",CMS Эдди Мерфи
-http://cdn2.starcinemax.fun:2095/3030/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms элен и ребята" group-title="Кинозалы CMS",CMS Элен и ребята
-http://cdn1.starcinemax.fun:2095/0373/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms эльдар рязанов" group-title="Кинозалы CMS",CMS Эльдар Рязанов
-http://cdn1.starcinemax.fun:2095/0108/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms энистон дженнифер" group-title="Кинозалы CMS",CMS Энистон Дженнифер
-http://cdn1.starcinemax.fun:2095/0185/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms +100500" group-title="Кинозалы CMS",CMS +100500
-http://cdn2.starcinemax.fun:2095/0990/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms 6 кадров" group-title="Кинозалы CMS",CMS 6 кадров
-http://cdn1.starcinemax.fun:2095/0333/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms 95 квартал" group-title="Кинозалы CMS",CMS 95 квартал
-http://cdn1.starcinemax.fun:2095/0418/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms anime" group-title="Кинозалы CMS",CMS Anime
-http://cdn1.starcinemax.fun:2095/0067/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms comedy club" group-title="Кинозалы CMS",CMS Comedy Club
-http://cdn2.starcinemax.fun:2095/3026/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms comedy club ussr" group-title="Кинозалы CMS",CMS Comedy Club USSR
-http://cdn2.starcinemax.fun:2095/3042/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms comedy woman" group-title="Кинозалы CMS",CMS Comedy Woman
-http://cdn1.starcinemax.fun:2095/0301/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms cпокойной ночи малыши!" group-title="Кинозалы CMS",CMS Cпокойной ночи малыши!
-http://cdn1.starcinemax.fun:2095/0019/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms doс nature hd" group-title="Кинозалы CMS",CMS Doс nature HD
-http://cdn1.starcinemax.fun:2095/0322/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms doс nature relax hd" group-title="Кинозалы CMS",CMS Doс nature relax HD
-http://cdn1.starcinemax.fun:2095/0024/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms hublle" group-title="Кинозалы CMS",CMS Hublle
-http://cdn2.starcinemax.fun:2095/3028/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms kosmo" group-title="Кинозалы CMS",CMS Kosmo
-http://cdn2.starcinemax.fun:2095/3027/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms the chase" group-title="Кинозалы CMS",CMS The Chase
-http://cdn2.starcinemax.fun:2095/0977/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms the cube" group-title="Кинозалы CMS",CMS The Cube
-http://cdn2.starcinemax.fun:2095/0974/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms tik tok" group-title="Кинозалы CMS",CMS Tik Tok
-http://cdn1.starcinemax.fun:2095/0021/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms top gear (топ гир)" group-title="Кинозалы CMS",CMS Top Gear (Топ Гир)
-http://cdn1.starcinemax.fun:2095/0422/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms ufo" group-title="Кинозалы CMS",CMS UFO
-http://cdn1.starcinemax.fun:2095/0003/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms американский дракон джейк лонг" group-title="Кинозалы CMS",CMS Американский дракон Джейк Лонг
-http://cdn2.starcinemax.fun:2095/3048/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms аншлаг  аншлаг!" group-title="Кинозалы CMS",CMS Аншлаг  Аншлаг!
-http://cdn1.starcinemax.fun:2095/00101/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms банды 90-ых" group-title="Кинозалы CMS",CMS Банды 90-ых
-http://cdn1.starcinemax.fun:2095/00108/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms бородач" group-title="Кинозалы CMS",CMS Бородач
-http://cdn1.starcinemax.fun:2095/0446/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms буба" group-title="Кинозалы CMS",CMS Буба
-http://cdn2.starcinemax.fun:2095/3006/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms будильник" group-title="Кинозалы CMS",CMS Будильник
-http://cdn1.starcinemax.fun:2095/00102/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms в мире животных" group-title="Кинозалы CMS",CMS В мире животных
-http://cdn1.starcinemax.fun:2095/0442/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms вокруг смеха" group-title="Кинозалы CMS",CMS Вокруг смеха
-http://cdn1.starcinemax.fun:2095/0006/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms вспыш и чудо-машинки" group-title="Кинозалы CMS",CMS Вспыш и чудо-машинки
-http://cdn2.starcinemax.fun:2095/3005/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms вуншпунш" group-title="Кинозалы CMS",CMS Вуншпунш
-http://cdn2.starcinemax.fun:2095/0914/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms выжить любой ценой" group-title="Кинозалы CMS",CMS Выжить любой ценой
-http://cdn1.starcinemax.fun:2095/0323/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms высоцкий документалка" group-title="Кинозалы CMS",CMS Высоцкий Документалка
-http://cdn2.starcinemax.fun:2095/0904/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms галилео" group-title="Кинозалы CMS",CMS Галилео
-http://cdn1.starcinemax.fun:2095/0414/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms голубой огонек" group-title="Кинозалы CMS",CMS Голубой огонек
-http://cdn1.starcinemax.fun:2095/0007/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms голые и смешные" group-title="Кинозалы CMS",CMS Голые и смешные
-http://cdn1.starcinemax.fun:2095/0419/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms город свиней" group-title="Кинозалы CMS",CMS Город Свиней
-http://cdn2.starcinemax.fun:2095/0966/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms города советского союза" group-title="Кинозалы CMS",CMS Города Советского Союза
-http://cdn1.starcinemax.fun:2095/0008/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms городок" group-title="Кинозалы CMS",CMS Городок
-http://cdn1.starcinemax.fun:2095/0327/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms гравити фолс" group-title="Кинозалы CMS",CMS Гравити Фолс
-http://cdn1.starcinemax.fun:2095/0068/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms грифины" group-title="Кинозалы CMS",CMS Грифины
-http://cdn1.starcinemax.fun:2095/0304/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms губка боб" group-title="Кинозалы CMS",CMS Губка Боб
-http://cdn1.starcinemax.fun:2095/0382/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms даёшь молодёжь!" group-title="Кинозалы CMS",CMS Даёшь молодёжь!
-http://cdn1.starcinemax.fun:2095/0334/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms дизель шоу" group-title="Кинозалы CMS",CMS Дизель Шоу
-http://cdn1.starcinemax.fun:2095/0328/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms дорожный патруль" group-title="Кинозалы CMS",CMS Дорожный патруль
-http://cdn1.starcinemax.fun:2095/00111/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms ералаш" group-title="Кинозалы CMS",CMS Ералаш
-http://cdn1.starcinemax.fun:2095/0004/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms жак-ив кусто" group-title="Кинозалы CMS",CMS Жак-Ив Кусто
-http://cdn1.starcinemax.fun:2095/0142/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms жизнь в 90-е" group-title="Кинозалы CMS",CMS Жизнь в 90-е
-http://cdn1.starcinemax.fun:2095/0010/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms жизнь замечатетьных людей" group-title="Кинозалы CMS",CMS Жизнь замечатетьных людей
-http://cdn1.starcinemax.fun:2095/0411/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms задорнов" group-title="Кинозалы CMS",CMS Задорнов
-http://cdn2.starcinemax.fun:2095/0970/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms зарубежные страны глазами советского телевидения" group-title="Кинозалы CMS",CMS Зарубежные страны глазами советского телевидения
-http://cdn1.starcinemax.fun:2095/00103/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms империя страсти" group-title="Кинозалы CMS",CMS Империя страсти
-http://cdn1.starcinemax.fun:2095/0415/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms итальянцы by" group-title="Кинозалы CMS",CMS Итальянцы by
-http://cdn2.starcinemax.fun:2095/0649/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms кабачок  13 стульев" group-title="Кинозалы CMS",CMS Кабачок  13 стульев
-http://cdn1.starcinemax.fun:2095/0383/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms как это работает?" group-title="Кинозалы CMS",CMS Как это работает?
-http://cdn2.starcinemax.fun:2095/0937/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms каламбур" group-title="Кинозалы CMS",CMS Каламбур
-http://cdn1.starcinemax.fun:2095/0035/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms киножурнал фитиль" group-title="Кинозалы CMS",CMS Киножурнал Фитиль
-http://cdn2.starcinemax.fun:2095/0463/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms киносказка" group-title="Кинозалы CMS",CMS Киносказка
-http://cdn1.starcinemax.fun:2095/0155/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms клуб путешественников" group-title="Кинозалы CMS",CMS Клуб путешественников
-http://cdn1.starcinemax.fun:2095/0443/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms компьютеры в ссср" group-title="Кинозалы CMS",CMS Компьютеры в СССР
-http://cdn1.starcinemax.fun:2095/00107/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms космический" group-title="Кинозалы CMS",CMS Космический
-http://cdn1.starcinemax.fun:2095/0001/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms маски-шоу" group-title="Кинозалы CMS",CMS Маски-шоу
-http://cdn1.starcinemax.fun:2095/0337/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms масяня" group-title="Кинозалы CMS",CMS Масяня
-http://cdn1.starcinemax.fun:2095/0375/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms махинаторы" group-title="Кинозалы CMS",CMS Махинаторы
-http://cdn2.starcinemax.fun:2095/1008/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms маша и медведь" group-title="Кинозалы CMS",CMS Маша и медведь
-http://cdn1.starcinemax.fun:2095/0075/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms маша і ведмідь" group-title="Кинозалы CMS",CMS Маша і ведмідь
-http://cdn2.starcinemax.fun:2095/0978/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms мимимишки" group-title="Кинозалы CMS",CMS Мимимишки
-http://cdn2.starcinemax.fun:2095/0811/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms мир на изнанку" group-title="Кинозалы CMS",CMS Мир на изнанку
-http://cdn1.starcinemax.fun:2095/0100/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms мистер бин" group-title="Кинозалы CMS",CMS Мистер Бин
-http://cdn1.starcinemax.fun:2095/0338/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms намедни" group-title="Кинозалы CMS",CMS Намедни
-http://cdn1.starcinemax.fun:2095/0207/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms наш сад" group-title="Кинозалы CMS",CMS Наш сад
-http://cdn1.starcinemax.fun:2095/00106/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms наша раша" group-title="Кинозалы CMS",CMS Наша раша
-http://cdn2.starcinemax.fun:2095/0706/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms новые приключения винни пуха" group-title="Кинозалы CMS",CMS Новые приключения Винни Пуха
-http://cdn1.starcinemax.fun:2095/0085/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms ну погоди" group-title="Кинозалы CMS",CMS Ну погоди
-http://cdn2.starcinemax.fun:2095/1402/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms огии и тараканы" group-title="Кинозалы CMS",CMS Огии и тараканы
-http://cdn2.starcinemax.fun:2095/3008/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms одна за всех" group-title="Кинозалы CMS",CMS Одна за всех
-http://cdn1.starcinemax.fun:2095/0324/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms однажды в россии" group-title="Кинозалы CMS",CMS Однажды в России
-http://cdn1.starcinemax.fun:2095/0315/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms окна с дмитрием нагиевым" group-title="Кинозалы CMS",CMS Окна с Дмитрием Нагиевым
-http://cdn1.starcinemax.fun:2095/0331/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms орел и решка" group-title="Кинозалы CMS",CMS Орел и решка
-http://cdn2.starcinemax.fun:2095/9011/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms осторожно модерн" group-title="Кинозалы CMS",CMS Осторожно Модерн
-http://cdn1.starcinemax.fun:2095/0332/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms охотники за привидениями" group-title="Кинозалы CMS",CMS Охотники за привидениями
-http://cdn2.starcinemax.fun:2095/3044/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms очевидное  невероятное" group-title="Кинозалы CMS",CMS Очевидное  невероятное
-http://cdn1.starcinemax.fun:2095/0012/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms покемон" group-title="Кинозалы CMS",CMS Покемон
-http://cdn1.starcinemax.fun:2095/0365/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms привет из 90-х" group-title="Кинозалы CMS",CMS Привет из 90-х
-http://cdn1.starcinemax.fun:2095/0027/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms программа ``время``" group-title="Кинозалы CMS",CMS Программа ``Время``
-http://cdn1.starcinemax.fun:2095/0013/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms разрушители легенд" group-title="Кинозалы CMS",CMS Разрушители легенд
-http://cdn2.starcinemax.fun:2095/3066/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms розовая пантера" group-title="Кинозалы CMS",CMS Розовая пантера
-http://cdn2.starcinemax.fun:2095/3021/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms рок советского периода" group-title="Кинозалы CMS",CMS Рок советского периода
-http://cdn1.starcinemax.fun:2095/0016/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms русалочка" group-title="Кинозалы CMS",CMS Русалочка
-http://cdn1.starcinemax.fun:2095/0088/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms русский ниндзя" group-title="Кинозалы CMS",CMS Русский ниндзя
-http://cdn2.starcinemax.fun:2095/0468/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms св шоу" group-title="Кинозалы CMS",CMS СВ Шоу
-http://cdn1.starcinemax.fun:2095/00110/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms секретные материалы псов-шпионов" group-title="Кинозалы CMS",CMS Секретные материалы псов-шпионов
-http://cdn1.starcinemax.fun:2095/0429/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms симпсоны" group-title="Кинозалы CMS",CMS Симпсоны
-http://cdn2.starcinemax.fun:2095/3041/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms следствие вели" group-title="Кинозалы CMS",CMS Следствие вели
-http://cdn1.starcinemax.fun:2095/0440/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms смак  с андреем макаревичем" group-title="Кинозалы CMS",CMS Смак  с Андреем Макаревичем
-http://cdn1.starcinemax.fun:2095/00109/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms советские видеоклипы" group-title="Кинозалы CMS",CMS Советские видеоклипы
-http://cdn1.starcinemax.fun:2095/0017/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms советские мультфильмы" group-title="Кинозалы CMS",CMS Советские мультфильмы
-http://cdn1.starcinemax.fun:2095/0018/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms советский автопром" group-title="Кинозалы CMS",CMS Советский автопром
-http://cdn1.starcinemax.fun:2095/00104/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms союз мультфильм" group-title="Кинозалы CMS",CMS Союз мультфильм
-http://cdn1.starcinemax.fun:2095/0416/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms театр современник" group-title="Кинозалы CMS",CMS Театр "Современник"
-http://cdn1.starcinemax.fun:2095/0014/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms том и джери" group-title="Кинозалы CMS",CMS Том и Джери
-http://cdn1.starcinemax.fun:2095/0374/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms угадай мелодию" group-title="Кинозалы CMS",CMS Угадай Мелодию
-http://cdn1.starcinemax.fun:2095/0325/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms удивительная природа" group-title="Кинозалы CMS",CMS Удивительная природа
-http://cdn2.starcinemax.fun:2095/7010/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms уральские пельмени" group-title="Кинозалы CMS",CMS Уральские пельмени
-http://cdn1.starcinemax.fun:2095/0168/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms утренняя почта" group-title="Кинозалы CMS",CMS Утренняя почта
-http://cdn1.starcinemax.fun:2095/0020/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms ферма монстров" group-title="Кинозалы CMS",CMS Ферма монстров
-http://cdn2.starcinemax.fun:2095/0901/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms фиксики" group-title="Кинозалы CMS",CMS Фиксики
-http://cdn1.starcinemax.fun:2095/0326/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms финес и ферб" group-title="Кинозалы CMS",CMS Финес и Ферб
-http://cdn2.starcinemax.fun:2095/3046/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms хроники московского быта" group-title="Кинозалы CMS",CMS Хроники московского быта
-http://cdn1.starcinemax.fun:2095/00112/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms царь горы" group-title="Кинозалы CMS",CMS Царь горы
-http://cdn1.starcinemax.fun:2095/0439/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms чародеи" group-title="Кинозалы CMS",CMS Чародеи
-http://cdn2.starcinemax.fun:2095/0980/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms час суда с павлом астаховым" group-title="Кинозалы CMS",CMS Час Суда с Павлом Астаховым
-http://cdn1.starcinemax.fun:2095/0389/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms человек-паук" group-title="Кинозалы CMS",CMS Человек-паук
-http://cdn1.starcinemax.fun:2095/0369/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms четыре свадьбы" group-title="Кинозалы CMS",CMS Четыре свадьбы
-http://cdn2.starcinemax.fun:2095/0638/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms что где когда" group-title="Кинозалы CMS",CMS Что Где Когда
-http://cdn2.starcinemax.fun:2095/3036/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms что с энди?" group-title="Кинозалы CMS",CMS Что с Энди?
-http://cdn2.starcinemax.fun:2095/0967/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms чудаки" group-title="Кинозалы CMS",CMS Чудаки
-http://cdn1.starcinemax.fun:2095/0417/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms чудеса на виражах" group-title="Кинозалы CMS",CMS Чудеса на виражах
-http://cdn2.starcinemax.fun:2095/0809/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms щенячий патруль" group-title="Кинозалы CMS",CMS Щенячий патруль
-http://cdn2.starcinemax.fun:2095/3007/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms юрий никулин  клуб белый попугай" group-title="Кинозалы CMS",CMS Юрий Никулин  Клуб Белый попугай
-http://cdn1.starcinemax.fun:2095/0393/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms янковский олег" group-title="Кинозалы CMS",CMS Янковский Олег
-http://cdn2.starcinemax.fun:2095/3049/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms криминальная россия" group-title="Кинозалы CMS",CMS криминальная россия
-http://cdn2.starcinemax.fun:2095/0906/index.m3u8?token=137946825
-
-
-
-
-
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=ktx05Zwamb_pSM7tM7-RJg&e=1751505791&scheme=https
@@ -2951,7 +2223,7 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id253_MSKSG-PVR-1--Disney/03/plst.m3u8?
 http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="smaylik-tv" group-title="Детские", Смайлик ТВ
-http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="kidstv" group-title="Детские", Kids TV
 http://77.235.1.19:8000/play/a030/index.m3u8
@@ -2970,16 +2242,16 @@ http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 http://178.217.72.66:8080/multilandiya/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", Лёва
-http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-logo="https://epg.iptvx.one/picons/ducktv.png" tvg-id="ducktv" group-title="Детские", Duck TV HD
-http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Детские", СТС Kids
 https://vod.splay.uz/live_splay/original/STSkids/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",СТС Kids HD
-http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="baby-time" tvg-logo="https://iptvx.one/picons/baby-time.png" group-title="Детские", Baby Time
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -2998,16 +2270,16 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 http://178.217.72.66:8080/O/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",Уникум
-http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Детские",Детский Мир
 https://vod.splay.uz/live_splay/original/DetskiyMir/mono.ts.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",МультСезон
-http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",Gulli Girl
-http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="cartoon-network" group-title="Детские", Cartoon Network
 http://80.245.95.243:8888/play/qwe9877/index.m3u8
@@ -3028,7 +2300,7 @@ http://195.245.99.242/Tiji/playlist.m3u8
 http://178.124.179.122:8088/Malish/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", КАПИТАН ФАНТАСТИКА HD
-http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
@@ -3072,7 +2344,7 @@ https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 http://autopilot.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", Сказки Зайки
-http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="viva-rus" group-title="Музыкальные",VIVA TV Russia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -3361,7 +2633,7 @@ rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 http://stream-msk-11.ott.tricolor.tv/dtv/id132_MSKSG-PVR-1--Shanson/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="la-minor" group-title="Музыкальные", Ля-минор
-http://api.peers.tv/timeshift/la_minor/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/la_minor/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 tvg-id="zhar-ptica" group-title="Музыкальные",Жар-Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
@@ -3527,7 +2799,7 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/va
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="pervy-pl4" group-title="Федеральные плюс", Первый HD (+4)
-http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MTA3ODAsImlhdCI6MTc1MTQyNDM4MCwiY2lkIjo2LCJ1aWQiOjkyNzQ2MDE2MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.mz_AYHvvNdJC8fVrHDwxCE71XzDsy04ocYLS7HVDRN4&offset=3
+http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE1MzA1ODAsImlhdCI6MTc1MTQ0NDE4MCwiY2lkIjo2LCJ1aWQiOjkyNzUxMDYzNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.VQxvUrQGMmaA9Nfw3qg9yHHsHLMvCg3XwnsXw7aHP-8&offset=3
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
