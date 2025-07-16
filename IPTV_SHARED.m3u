@@ -307,7 +307,7 @@ https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 #EXTINF:-1 tvg-id="fightbox-hd" group-title="Спортивные", FightBox
 http://77.235.1.19:8000/play/a080/index.m3u8
 
-#EXTINF:-1 tvg-id="box-tv" group-title="Спортивные", БОКС ТВ HD
+#EXTINF:-1 tvg-id="box-tv" group-title="Спортивные", БОКС ТВ
 http://s7.merlive.am/BoxTV/index.m3u8
 
 #EXTINF:-1 tvg-id="box-tv" group-title="Спортивные", БОКС ТВ HD
