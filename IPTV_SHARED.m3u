@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/LOGO_FHD.mp4
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/QR.png" group-title="ИНФО", ПОДДЕРЖКА ПРОЕКТА
 https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/donat.mp4
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 24.07.2025г 09:25
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 24.07.2025г 10:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -200,6 +200,9 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pro-business" tvg-logo="https://iptvx.one/picons/pro-business.png" group-title="Новости", Про бизнес
 http://176.107.219.20:9000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="rtvi" group-title="Новости", RTVi
+http://178.134.1.158:8081/rtvi/index.m3u8
 
 #EXTINF:-1 tvg-id="euronews" group-title="Новости", EuroNews
 http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282455
@@ -907,7 +910,7 @@ http://178.217.72.66:8080/Viasat_Explorer/index.m3u8
 http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTM0Mjc3ODAsImlhdCI6MTc1MzM0MTM4MCwiY2lkIjo2LCJ1aWQiOjkzMjEwOTc2OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.JX8nPh4RXowQOuU2x7oWMhJL8asUDlpI3U39Gn7h5lY&offset=3
 
 #EXTINF:-1 group-title="Познавательные",viju+ Planet HD
-http://77.235.1.19:8000/play/a05m/index.m3u8
+http://31.133.36.244:8000/170
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="terra-ru" group-title="Познавательные",Terra
 http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTM0Mjc3ODAsImlhdCI6MTc1MzM0MTM4MCwiY2lkIjo2LCJ1aWQiOjkzMjEwOTc2OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.JX8nPh4RXowQOuU2x7oWMhJL8asUDlpI3U39Gn7h5lY&offset=3
@@ -955,8 +958,8 @@ http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery
 http://45.159.74.22/InvestigationDiscovery/mono.m3u8
 
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Xtra EU
-http://195.245.99.242/ID/playlist.m3u8
+#EXTINF:-1 tvg-id="history" group-title="Познавательные", History
+https://view.my-tv.biz/tv/30513613ac/90ccd64974/video.m3u8
 
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History HD
 http://45.159.74.22/Channel_123/mono.m3u8
@@ -1244,19 +1247,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTM0Mjc3ODAsImlhdCI6MTc1MzM0MTM4MCwiY2lkIjo2LCJ1aWQiOjkzMjEwOTc2OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.JX8nPh4RXowQOuU2x7oWMhJL8asUDlpI3U39Gn7h5lY&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы", VIP PREMIERE HD
-http://77.235.1.19:8000/play/a05c/index.m3u8
+http://85.117.61.97:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VIJU+ MEGAHIT HD
 http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTM0Mjc3ODAsImlhdCI6MTc1MzM0MTM4MCwiY2lkIjo2LCJ1aWQiOjkzMjEwOTc2OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.JX8nPh4RXowQOuU2x7oWMhJL8asUDlpI3U39Gn7h5lY&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы",VIJU+ MEGAHIT HD
-http://77.235.1.19:8000/play/a05d/index.m3u8
+http://85.117.61.97:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ COMEDY HD
 http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTM0Mjc3ODAsImlhdCI6MTc1MzM0MTM4MCwiY2lkIjo2LCJ1aWQiOjkzMjEwOTc2OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.JX8nPh4RXowQOuU2x7oWMhJL8asUDlpI3U39Gn7h5lY&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы", VIP COMEDY HD
-http://77.235.1.19:8000/play/a05e/index.m3u8
+http://85.117.61.97:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ SERIAL HD
 http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTM0Mjc3ODAsImlhdCI6MTc1MzM0MTM4MCwiY2lkIjo2LCJ1aWQiOjkzMjEwOTc2OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.JX8nPh4RXowQOuU2x7oWMhJL8asUDlpI3U39Gn7h5lY&offset=3
@@ -1278,7 +1281,7 @@ https://stream-msk-18.ott.tricolor.tv:443/dtv/id992_MSKSG-PVR-1--Kineko_HD/04/pl
 https://stream-msk-17.ott.tricolor.tv/dtv/id991_MSKSG-PVR-1--Sapphire_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1MzY2OTIzMiwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzMDY0NDMyLCJzZXNzaW9uX2lkIjoiOWVhMThlNjgzNTUxYjNiNWVlN2NmODUyMDgxOTE1OTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.UrItlXueVDYEF_nJqKOWyvUWlExsKVhJaxFgSZbBGPg
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",viju TV1000 Русское
-http://178.124.193.53:8181/play/1047/index.m3u8
+http://85.117.61.97:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",viju TV1000 Русское кино
 http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTM0Mjc3ODAsImlhdCI6MTc1MzM0MTM4MCwiY2lkIjo2LCJ1aWQiOjkzMjEwOTc2OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.JX8nPh4RXowQOuU2x7oWMhJL8asUDlpI3U39Gn7h5lY&offset=3
