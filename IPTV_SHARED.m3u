@@ -429,7 +429,7 @@ http://185.26.157.3:8080/live/matchfutbol3hd/mono.m3u8
 #EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч! Футбол 3 HD
 http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://smart-assist.ru/images/news/97899.png" tvg-id="no_epg_sport" group-title="Спортивные", OnlineTV
+#EXTINF:-1 tvg-logo="https://smart-assist.ru/images/news/97899.png" tvg-id="okko-sport-2" group-title="Спортивные", OnlineTV
 http://185.221.213.254:8080/Okko/index.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sports" group-title="Спортивные", Setanta Sports 1 HD
