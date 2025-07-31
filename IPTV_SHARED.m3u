@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/LOGO_FHD.mp4
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/QR.png" group-title="ИНФО", ПОДДЕРЖКА ПРОЕКТА
 https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/donat.mp4
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 31.07.2025г 08:30
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 31.07.2025г 09:40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -288,6 +288,9 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 
 #EXTINF:-1 tvg-id="xabar24" group-title="Новости", Хабар 24
 https://stream-msk-17.ott.tricolor.tv/dtv/id947_MSKSG-PVR-1--KZ24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDI3NzE4NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzNjcyMzg3LCJzZXNzaW9uX2lkIjoiYjQ1ODgxYmFkZTYzYzYzMDZmNzQxYjBmNzhhMDAyYWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.SRlFzRqXuoSDebs_khsLHrsvfnG3aKOkZ4pS6cLWijo
+
+#EXTINF:-1 tvg-id="ufc" group-title="Спортивные", Удар ТВ
+http://95.85.109.219:7000/play/a066
 
 #EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/1002/60/2f8a8f9c961b16485098b28ba00c7b60.png" tvg-id="UFC Network" group-title="Спортивные", UFC Network
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
@@ -1162,14 +1165,14 @@ https://stream-msk-03.ott.tricolor.tv:443/dtv/id634_MSKSG-PVR-1--Arsenal_HD/04/p
 #EXTINF:-1 tvg-id="centralnoye-tv" group-title="Познавательные", ЦТВ
 https://stream-msk-11.ott.tricolor.tv/dtv/id654_MSKSG-PVR-1--Centralnoe_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDI3NzE4NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzNjcyMzg3LCJzZXNzaW9uX2lkIjoiYjQ1ODgxYmFkZTYzYzYzMDZmNzQxYjBmNzhhMDAyYWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.SRlFzRqXuoSDebs_khsLHrsvfnG3aKOkZ4pS6cLWijo
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="muzhskoy" group-title="Познавательные", Мужской
-http://api.peers.tv/timeshift/muzhskoj/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwMjg5ODAsImlhdCI6MTc1Mzk0MjU4MCwiY2lkIjo2LCJ1aWQiOjkzMzY0Mjk4NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.7LPDpb2Spp4xqXiKMpyUR2UFAe8ue7RswR_doiezmuc&offset=3
+#EXTINF:-1 tvg-id="muzhskoy" group-title="Познавательные", Мужской
+http://158.160.149.81:8080/8850/index.m3u8
 
 #EXTINF:-1 tvg-id="trofey" group-title="Познавательные", Трофей HD
 http://81.198.190.9:7878/Trofey/video.m3u8
 
 #EXTINF:-1 tvg-id="dikiy" group-title="Познавательные", Дикий
-http://178.217.72.66:8080/Dikiy/video.m3u8
+http://185.26.157.3:8080/live/dikiy/mono.m3u8
 
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательные", Дикая охота
 http://158.160.149.81:8080/4647/index.m3u8
@@ -1511,6 +1514,16 @@ http://live-mirror-11.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/cENEADXNhjxTrS2Ztr1OoA,1753995611/streaming/kinoliving/324/1/index.m3u8
 
+
+#EXTINF:-1 tvg-id="premium-kino-kz" group-title="Кино и сериалы", Премиум Кино HD KZ
+http://158.160.149.81:8080/8535/index.m3u8
+
+#EXTINF:-1 tvg-id="mirovoe-kino-kz" group-title="Кино и сериалы", Мировое Кино HD KZ
+http://158.160.149.81:8080/8532/index.m3u8
+
+#EXTINF:-1 tvg-id="semejnoe-kino-kz" group-title="Кино и сериалы", Семейное Кино HD KZ
+http://158.160.149.81:8080/8533/index.m3u8
+
 #EXTINF:-1 tvg-id="kino-1" group-title="Кино и сериалы", Kino 1 HD
 http://81.198.190.9:7878/kino1/video.m3u8
 
@@ -1743,11 +1756,20 @@ https://sb-2.restream.su/preview/20015/b13b5ca1-5968-491d-b5d2-4d7abf636e73/live
 #EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/0720/74/52a7882bf655f06a149bf9b06147dd74.png" tvg-id="Видеокасета VHS" group-title="Кинозалы", Видеокасета VHS
 https://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
 
+#EXTINF:-1 tvg-id="vhs-ka" group-title="Кинозалы", VHS-ка HD
+http://158.160.149.81:8080/8270/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_67b4c0d121533b09ed7fab53_67b4c0e83b63103f9b0e46e9/scale_1200" tvg-id="no_epg_cinema" group-title="Кинозалы", КИНО СБОРНИК
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", ВсёТВHD
 https://132544.edgevideo.ru/streams/132544_902681/132544720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", RED PREMIUM
+http://95.85.109.219:7000/play/a06e
+
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", RED THRILLER
+http://95.85.109.219:7000/play/a06h
 
 #EXTINF:-1 tvg-logo="https://sun1-28.userapi.com/s/v1/ig2/QskYNOQspELa4M4U9R8ROD2c58C_xc-UxsooBHJMZZdy1qf2T9voHz4pBehKyirLPtlDlToYIiBuuZlCD-GUxjO_.jpg?quality=95&crop=49,49,400,400&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=200x200" tvg-id="no_epg_cinema" group-title="Кинозалы", VHDV TV
 https://132544.edgevideo.ru/streams/132544_932006/132544720/index.m3u8
@@ -2439,6 +2461,9 @@ http://178.217.72.66:8080/Gulli/index.m3u8
 
 #EXTINF:-1 group-title="Детские",Cartoon Network
 http://185.26.157.3:8080/live/cartoonnetwork/mono.m3u8
+
+#EXTINF:-1 group-title="Детские",Cartoonito
+http://185.26.157.3:8080/live/boomerang/mono.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские", Nickelodeon
 http://81.198.190.9:7878/NICKELODEON/video.m3u8
