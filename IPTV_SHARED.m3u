@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/LOGO_FHD.mp4
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/QR.png" group-title="ИНФО", ПОДДЕРЖКА ПРОЕКТА
 https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/donat.mp4
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 31.07.2025г 17:35
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 31.07.2025г 20:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -372,7 +372,7 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id686_MSKSG-PVR-1--Tonus/03/plst.m3u8?d
 http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDI3NzE4NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzNjcyMzg3LCJzZXNzaW9uX2lkIjoiYjQ1ODgxYmFkZTYzYzYzMDZmNzQxYjBmNzhhMDAyYWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.SRlFzRqXuoSDebs_khsLHrsvfnG3aKOkZ4pS6cLWijo
 
 #EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Спортивные",Fast & FunBox
-http://77.235.1.19:8000/play/a07z/index.m3u8
+http://85.117.61.97:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" group-title="Спортивные",Матч! ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -1274,20 +1274,20 @@ https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ PREMIERE HD
-http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjEzODAsImlhdCI6MTc1Mzk3NDk4MCwiY2lkIjo2LCJ1aWQiOjkzMzc0ODEwMywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.SRnmMxAm7sOwzuARagFm0bDkrlJI-Ds5HEAKwb4j2gI&offset=3
+#EXTINF:-1 group-title="Кино и сериалы", VIJU+ PREMIERE HD
+http://85.117.61.97:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", VIP PREMIERE HD
 http://185.26.157.3:8080/live/vip_premiere_hd/mono.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VIJU+ MEGAHIT HD
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjEzODAsImlhdCI6MTc1Mzk3NDk4MCwiY2lkIjo2LCJ1aWQiOjkzMzc0ODEwMywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.SRnmMxAm7sOwzuARagFm0bDkrlJI-Ds5HEAKwb4j2gI&offset=3
+#EXTINF:-1 group-title="Кино и сериалы",VIJU+ MEGAHIT HD
+http://85.117.61.97:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",VIJU+ MEGAHIT HD
 http://185.26.157.3:8080/live/vip_megahit_hd/mono.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ COMEDY HD
-http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQwNjEzODAsImlhdCI6MTc1Mzk3NDk4MCwiY2lkIjo2LCJ1aWQiOjkzMzc0ODEwMywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.SRnmMxAm7sOwzuARagFm0bDkrlJI-Ds5HEAKwb4j2gI&offset=3
+#EXTINF:-1 group-title="Кино и сериалы", VIJU+ COMEDY HD
+http://85.117.61.97:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", VIP COMEDY HD
 http://185.26.157.3:8080/live/vip_comedy_hd/mono.m3u8
