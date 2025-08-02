@@ -1016,7 +1016,7 @@ http://185.26.157.3:8080/live/tlc/mono.m3u8
 
 #EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" group-title="Познавательные", Вопросы и ответы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/0tYoK5XZM85RpxhbK-JnRQ,1754168431/streaming/volleyball/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/SS0Nxs6kje6mzJNXwiLF1A,1754168416/streaming/voprosi-otveti/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="mir-uvlecheniy" tvg-logo="https://iptvx.one/picons/mir-uvlecheniy.png" group-title="Познавательные", #КтоКуда
 http://api.peers.tv/timeshift/mir_uvlecheniy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQyMDcxODAsImlhdCI6MTc1NDEyMDc4MCwiY2lkIjo2LCJ1aWQiOjkzNDE1NTE3MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.U11YvT70bre8WX85q7m_sihE2NkQ_2nc00qonwEttU0&offset=3
