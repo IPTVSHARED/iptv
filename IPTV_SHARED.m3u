@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/LOGO_FHD.mp4
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/QR.png" group-title="ИНФО", ПОДДЕРЖКА ПРОЕКТА
 https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/donat.mp4
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 09.08.2025г 12:00
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 09.08.2025г 12:40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -1008,6 +1008,9 @@ http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIU
 #EXTINF:-1 tvg-id="docubox-hd" group-title="Познавательные", DocuBox
 http://158.160.149.81:8080/1961/index.m3u8
 
+#EXTINF:-1 tvg-id="epic" group-title="Познавательные", Ep!c
+http://77.235.1.19:8000/play/a00v/index.m3u8
+
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="docubox-hd" group-title="Познавательные", DocuBox HD
 http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQ4MDgzODAsImlhdCI6MTc1NDcyMTk4MCwiY2lkIjo2LCJ1aWQiOjkzNTgwNTgzMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.p7Cc3jxwWzuy0iUrV_hqXu35xls3aFqBxTMgiTq7beM&offset=3
 
@@ -1313,7 +1316,7 @@ https://stream-msk-18.ott.tricolor.tv:443/dtv/id992_MSKSG-PVR-1--Kineko_HD/04/pl
 https://stream-msk-17.ott.tricolor.tv/dtv/id991_MSKSG-PVR-1--Sapphire_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",viju TV1000 Русское
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+http://str6.oxtve.live:8080/tv1000russkoehd/mpegts
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",viju TV1000 Русское кино
 http://158.160.149.81:8080/3794/index.m3u8
@@ -1409,10 +1412,10 @@ http://158.160.149.81:8080/7688/index.m3u8
 http://77.235.1.19:8000/play/a051/index.m3u8
 
 #EXTINF:-1 tvg-id="retro-tv" group-title="Кино и сериалы", Ретро ТВ
-http://178.212.71.253:8000/play/90/index.m3u8
+http://176.96.241.40/Retro/index.m3u8
 
 #EXTINF:-1 tvg-id="saga-tv" group-title="Кино и сериалы", Saga TV
-http://178.212.71.253:8001/play/144/index.m3u8
+http://95.85.109.219:7000/play/a05w
 
 #EXTINF:-1 tvg-id="atv-kinoman" group-title="Кино и сериалы", ATV Kinoman
 http://45.159.74.22/Kinoman/mono.m3u8
