@@ -551,19 +551,25 @@ http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="sky-sport-f1-de" group-title="Спортивные",Sky Sport F1 [DE]
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/330461
+http://str6.oxtve.live:8080/skysportf1/mpegts
+
+#EXTINF:-1 tvg-id="sky-sports-f1" group-title="Спортивные", Sky Sports F1 HD
+http://str6.oxtve.live:8080/EN_Sky_Sport_F1/mpegts
+
+#EXTINF:-1 tvg-id="sky-sport-pl-de" group-title="Спортивные", Sky Sport Premier League [DE]
+http://str6.oxtve.live:8080/DE_Sky_Sport_Premier_League/mpegts
 
 #EXTINF:-1 tvg-id="sky-sport-top-event-de" group-title="Спортивные",Sky Sport Top Event [DE]
 http://str6.oxtve.live:8080/DE_Sky_Sport_Top_Event/mpegts
+
+#EXTINF:-1 tvg-id="sky-sport-tennis-de" group-title="Спортивные",Sky Sport Tennis [DE]
+http://str6.oxtve.live:8080/DE_Sky_Sport_Tennis/mpegts
 
 #EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://epg.iptvx.one/picons/tennis-cnl-us.png" group-title="Спортивные",Tennis Channel [US]
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="supertennis" group-title="Спортивные", SuperTennis HD
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-
-#EXTINF:-1 tvg-id="sky-sport-tennis-de" group-title="Спортивные",Sky Sport Tennis [DE]
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/426455
 
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn-us.png" group-title="Спортивные", ESPN
 http://181.188.216.5:18000/play/a0fb/index.m3u8
