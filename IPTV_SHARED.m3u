@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/LOGO_FHD.mp4
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/QR.png" group-title="ИНФО", ПОДДЕРЖКА ПРОЕКТА
 https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/donat.mp4
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 09.08.2025г 10:00
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 09.08.2025г 12:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -552,6 +552,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="sky-sport-f1-de" group-title="Спортивные",Sky Sport F1 [DE]
 http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/330461
+
+#EXTINF:-1 tvg-id="sky-sport-top-event-de" group-title="Спортивные",Sky Sport Top Event [DE]
+http://str6.oxtve.live:8080/DE_Sky_Sport_Top_Event/mpegts
 
 #EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://epg.iptvx.one/picons/tennis-cnl-us.png" group-title="Спортивные",Tennis Channel [US]
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -1266,19 +1269,19 @@ https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", VIJU+ PREMIERE HD
-http://85.117.61.97:8000/play/a00u/index.m3u8
+http://str6.oxtve.live:8080/vippremierehd/mpegts
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIP PREMIERE HD
 http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQ4MDgzODAsImlhdCI6MTc1NDcyMTk4MCwiY2lkIjo2LCJ1aWQiOjkzNTgwNTgzMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.p7Cc3jxwWzuy0iUrV_hqXu35xls3aFqBxTMgiTq7beM&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы",VIJU+ MEGAHIT HD
-http://85.117.61.97:8000/play/a00t/index.m3u8
+http://str6.oxtve.live:8080/vipmegahithd/mpegts
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VIP MEGAHIT HD
 http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQ4MDgzODAsImlhdCI6MTc1NDcyMTk4MCwiY2lkIjo2LCJ1aWQiOjkzNTgwNTgzMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.p7Cc3jxwWzuy0iUrV_hqXu35xls3aFqBxTMgiTq7beM&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы", VIJU+ COMEDY HD
-http://85.117.61.97:8000/play/a00s/index.m3u8
+http://str6.oxtve.live:8080/vipcomedyhd/mpegts
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIP COMEDY HD
 http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQ4MDgzODAsImlhdCI6MTc1NDcyMTk4MCwiY2lkIjo2LCJ1aWQiOjkzNTgwNTgzMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.p7Cc3jxwWzuy0iUrV_hqXu35xls3aFqBxTMgiTq7beM&offset=3
@@ -1287,7 +1290,10 @@ http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOi
 http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQ4MDgzODAsImlhdCI6MTc1NDcyMTk4MCwiY2lkIjo2LCJ1aWQiOjkzNTgwNTgzMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.p7Cc3jxwWzuy0iUrV_hqXu35xls3aFqBxTMgiTq7beM&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы", VIP SERIAL HD
-http://77.235.1.19:8000/play/a05n/index.m3u8
+http://str6.oxtve.live:8080/vipserialhd/mpegts
+
+#EXTINF:-1 tvg-id="epik-drama" group-title="Кино и сериалы", Epic Drama HD
+http://str6.oxtve.live:8080/epicdrama/mpegts
 
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кино и сериалы",Феникс+Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
@@ -2027,6 +2033,197 @@ https://live-mirror-20.ott.tricolor.tv/dtv/id1038_MSKSG-PVR-1--Kinozal_32/03/pls
 #EXTINF:-1 tvg-logo="https://cdn.nur.kz/images/1120x630/pogudx2cojg2jtu6kg.jpeg" tvg-id="no_epg_cinema" group-title="Кинозалы 2", ВОСТОК-ЗАПАД
 https://live-mirror-18.ott.tricolor.tv/dtv/id1035_MSKSG-PVR-1--Kinozal_33/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
 
+#EXTINF:-1 tvg-name="sky high drama 4k hdr" group-title="Кинозалы Magic & Sky High",Sky High Drama 4K HDR
+http://str6.oxtve.live:8080/SKYHIGH3D/mpegts
+#EXTINF:-1 tvg-name="sky high epoch" group-title="Кинозалы Magic & Sky High",Sky High Epoch
+http://str6.oxtve.live:8080/SKYHIGHEPOCHHD/mpegts
+#EXTINF:-1 tvg-name="sky high fresh" group-title="Кинозалы Magic & Sky High",Sky High Fresh
+http://str6.oxtve.live:8080/SKYHIGHFRESHHD/mpegts
+#EXTINF:-1 tvg-name="sky high fresh 60" group-title="Кинозалы Magic & Sky High",Sky High Fresh 60
+http://str6.oxtve.live:8080/SKYHIGHNEW60/mpegts
+#EXTINF:-1 tvg-name="sky high fresh hdr" group-title="Кинозалы Magic & Sky High",Sky High Fresh HDR
+http://str6.oxtve.live:8080/SKYHIGHFRESHHDR/mpegts
+#EXTINF:-1 tvg-name="sky high heroes" group-title="Кинозалы Magic & Sky High",Sky High Heroes
+http://str6.oxtve.live:8080/SKYHIGHHEROESHD/mpegts
+#EXTINF:-1 tvg-name="sky high mix 4k" group-title="Кинозалы Magic & Sky High",Sky High Mix 4K
+http://str6.oxtve.live:8080/SKYHIGHMIX4K/mpegts
+#EXTINF:-1 tvg-name="sky high russian" group-title="Кинозалы Magic & Sky High",Sky High Russian
+http://str6.oxtve.live:8080/SKYHIGHRUSSIANHD/mpegts
+#EXTINF:-1 tvg-name="sky high series" group-title="Кинозалы Magic & Sky High",Sky High Series
+http://str6.oxtve.live:8080/SKYHIGHSERIESHD/mpegts
+#EXTINF:-1 tvg-name="skyhigh-space-4k-hdr" group-title="Кинозалы Magic & Sky High",SKY HIGH SPACE 4K HDR
+http://str6.oxtve.live:8080/SKYHIGHFUTUREHD/mpegts
+#EXTINF:-1 tvg-name="sky high spirit" group-title="Кинозалы Magic & Sky High",Sky High Spirit
+http://str6.oxtve.live:8080/SKYHIGHSPIRITHD/mpegts
+#EXTINF:-1 tvg-name="sky high uhd hdr" group-title="Кинозалы Magic & Sky High",Sky High UHD HDR
+http://str6.oxtve.live:8080/SKYHIGHUHDHDR/mpegts
+#EXTINF:-1 tvg-name="sky high vhs uhd" group-title="Кинозалы Magic & Sky High",Sky High VHS UHD
+http://str6.oxtve.live:8080/SKYHIGHVHSUHD/mpegts
+#EXTINF:-1 tvg-name="sky high orig" group-title="Кинозалы Magic & Sky High",Sky High orig
+http://str6.oxtve.live:8080/SKYHIGHORIGHD/mpegts
+#EXTINF:-1 tvg-name="skyhigh-chbu" group-title="Кинозалы Magic & Sky High",SKY HIGH CHBU HD
+http://str6.oxtve.live:8080/SKYHIGHBYSLONKA/mpegts
+#EXTINF:-1 tvg-name="sky high adult" group-title="Кинозалы Magic & Sky High",Sky High Adult
+http://str6.oxtve.live:8080/SKYHIGHADULTHD/mpegts
+#EXTINF:-1 tvg-name="sky high anime" group-title="Кинозалы Magic & Sky High",Sky High Anime
+http://str6.oxtve.live:8080/SKYHIGHANIMEHD/mpegts
+#EXTINF:-1 tvg-name="sky high brain" group-title="Кинозалы Magic & Sky High",Sky High Brain
+http://str6.oxtve.live:8080/SKYHIGHBRAINHD/mpegts
+#EXTINF:-1 tvg-name="sky high bunny" group-title="Кинозалы Magic & Sky High",Sky High Bunny
+http://str6.oxtve.live:8080/BUNNYHD/mpegts
+#EXTINF:-1 tvg-name="skyhidh-classic" group-title="Кинозалы Magic & Sky High",SKY HIGH CLASSIC HD
+http://str6.oxtve.live:8080/SKYHIGHCLASSICHD/mpegts
+#EXTINF:-1 tvg-name="sky high concert" group-title="Кинозалы Magic & Sky High",Sky High Concert
+http://str6.oxtve.live:8080/SKYHIGHCONCERTHD/mpegts
+#EXTINF:-1 tvg-name="sky high doc" group-title="Кинозалы Magic & Sky High",Sky High Doc
+http://str6.oxtve.live:8080/SKYHIGHDOCHD/mpegts
+#EXTINF:-1 tvg-name="sky high doc uhd" group-title="Кинозалы Magic & Sky High",Sky High Doc UHD
+http://str6.oxtve.live:8080/SKYHIGHDOCUHD/mpegts
+#EXTINF:-1 tvg-name="skyhigh-fightpl" group-title="Кинозалы Magic & Sky High",SKY HIGH FIGHT+ HD
+http://str6.oxtve.live:8080/SKYHIGHFIGHT/mpegts
+#EXTINF:-1 tvg-name="sky high kids ussr" group-title="Кинозалы Magic & Sky High",Sky High Kids USSR
+http://str6.oxtve.live:8080/SKYHIGHKIDSUSSR/mpegts
+#EXTINF:-1 tvg-name="sky high man" group-title="Кинозалы Magic & Sky High",Sky High Man
+http://str6.oxtve.live:8080/SKYHIGHMANHD/mpegts
+#EXTINF:-1 tvg-name="sky high music" group-title="Кинозалы Magic & Sky High",Sky High Music
+http://str6.oxtve.live:8080/SKYHIGHMUSICHD/mpegts
+#EXTINF:-1 tvg-name="skyhigh-nature" group-title="Кинозалы Magic & Sky High",SKY HIGH NATURE FHD
+http://str6.oxtve.live:8080/SKYHIGHNATUREFHD/mpegts
+#EXTINF:-1 tvg-name="sky high nature 4k" group-title="Кинозалы Magic & Sky High",Sky High Nature 4K
+http://str6.oxtve.live:8080/SKYHIGHNATURE4K/mpegts
+#EXTINF:-1 tvg-name="sky high nature 4k hdr" group-title="Кинозалы Magic & Sky High",Sky High Nature 4K HDR
+http://str6.oxtve.live:8080/SKYHIGHNATURE4KHDR/mpegts
+#EXTINF:-1 tvg-name="sky high dance" group-title="Кинозалы Magic & Sky High",Sky High dance
+http://str6.oxtve.live:8080/SKYHIGHDANCEHD/mpegts
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0718/60/be6f5b7b8e685f097767177af01a0860.png" tvg-name="SKY HIGH LO FI HD" group-title="Кинозалы Magic & Sky High",SKY HIGH LO FI HD
+http://str6.oxtve.live:8080/SKYHIGHLOFIHD/mpegts
+#EXTINF:-1 tvg-name="sky high standup" group-title="Кинозалы Magic & Sky High",Sky High standup
+http://str6.oxtve.live:8080/SKYHIGHSTANDUPHD/mpegts
+
+#EXTINF:-1 tvg-name="magic action" group-title="Кинозалы Magic & Sky High",Magic Action
+http://str6.oxtve.live:8080/Magic_Action/mpegts
+#EXTINF:-1 tvg-name="magic adventure" group-title="Кинозалы Magic & Sky High",Magic Adventure
+http://str6.oxtve.live:8080/Magic_Adventure/mpegts
+#EXTINF:-1 tvg-name="magic comedy" group-title="Кинозалы Magic & Sky High",Magic Comedy
+http://str6.oxtve.live:8080/Magic_Comedy/mpegts
+#EXTINF:-1 tvg-name="magic family" group-title="Кинозалы Magic & Sky High",Magic Family
+http://str6.oxtve.live:8080/Magic_Family/mpegts
+#EXTINF:-1 tvg-name="magic galaxy" group-title="Кинозалы Magic & Sky High",Magic Galaxy
+http://str6.oxtve.live:8080/Magic_Galaxy/mpegts
+#EXTINF:-1 tvg-name="magic horror" group-title="Кинозалы Magic & Sky High",Magic Horror
+http://str6.oxtve.live:8080/Magic_Horror/mpegts
+#EXTINF:-1 tvg-name="magic karate" group-title="Кинозалы Magic & Sky High",Magic Karate
+http://str6.oxtve.live:8080/Magic_Karate/mpegts
+#EXTINF:-1 tvg-name="magic love" group-title="Кинозалы Magic & Sky High",Magic Love
+http://str6.oxtve.live:8080/Magic_Love/mpegts
+#EXTINF:-1 tvg-name="magic premiere" group-title="Кинозалы Magic & Sky High",Magic Premiere
+http://str6.oxtve.live:8080/Magic_Premiere/mpegts
+#EXTINF:-1 tvg-name="magic russian" group-title="Кинозалы Magic & Sky High",Magic Russian
+http://str6.oxtve.live:8080/Magic_Russian/mpegts
+#EXTINF:-1 tvg-name="magic thriller" group-title="Кинозалы Magic & Sky High",Magic Thriller
+http://str6.oxtve.live:8080/Magic_Thriller/mpegts
+#EXTINF:-1 tvg-name="magic vhs" group-title="Кинозалы Magic & Sky High",Magic VHS
+http://str6.oxtve.live:8080/Magic_VHS/mpegts
+#EXTINF:-1 tvg-name="magic disney" group-title="Кинозалы Magic & Sky High",Magic Disney
+http://str6.oxtve.live:8080/Magic_Disney/mpegts
+
+#EXTINF:-1 tvg-name="kbc-comics" group-title="Кинозалы KBC & Fresh",KBC-Comics
+http://str6.oxtve.live:8080/KBC_comics/mpegts
+#EXTINF:-1 tvg-name="kbc-elite-comedys" group-title="Кинозалы KBC & Fresh",KBC-Elite Comedys
+http://str6.oxtve.live:8080/KBC_elitecomedys/mpegts
+#EXTINF:-1 tvg-name="kbc-fantastic" group-title="Кинозалы KBC & Fresh",KBC-Fantastic
+http://str6.oxtve.live:8080/KBC_fantastic/mpegts
+#EXTINF:-1 tvg-name="kbc-history" group-title="Кинозалы KBC & Fresh",KBC-History
+http://str6.oxtve.live:8080/KBC_History/mpegts
+#EXTINF:-1 tvg-name="kbc-muskino" group-title="Кинозалы KBC & Fresh",KBC-MusKino
+http://str6.oxtve.live:8080/KBC_muskino/mpegts
+#EXTINF:-1 tvg-name="kbc-newfilm" group-title="Кинозалы KBC & Fresh",KBC-Newfilm
+http://str6.oxtve.live:8080/KBC_Newfilm/mpegts
+#EXTINF:-1 tvg-name="kbc-russian комедия" group-title="Кинозалы KBC & Fresh",KBC-Russian Комедия
+http://str6.oxtve.live:8080/KBC_Russiancomedy/mpegts
+#EXTINF:-1 tvg-name="kbc-war" group-title="Кинозалы KBC & Fresh",KBC-WAR
+http://str6.oxtve.live:8080/KBC_war/mpegts
+#EXTINF:-1 tvg-name="kbc-vov" group-title="Кинозалы KBC & Fresh",KBC-ВОВ
+http://str6.oxtve.live:8080/KBC_vov/mpegts
+#EXTINF:-1 tvg-name="kbc-вестерн" group-title="Кинозалы KBC & Fresh",KBC-Вестерн
+http://str6.oxtve.live:8080/KBC_western/mpegts
+#EXTINF:-1 tvg-name="kbc-видак" group-title="Кинозалы KBC & Fresh",KBC-Видак
+http://str6.oxtve.live:8080/KBC_vidac/mpegts
+#EXTINF:-1 tvg-name="kbc-гай ritchie & tarantino" group-title="Кинозалы KBC & Fresh",KBC-Гай Ritchie & Tarantino
+http://str6.oxtve.live:8080/KBC_guyrichieandtarantino/mpegts
+#EXTINF:-1 tvg-name="kbc-гоблин" group-title="Кинозалы KBC & Fresh",KBC-Гоблин
+http://str6.oxtve.live:8080/KBC_goblin/mpegts
+#EXTINF:-1 tvg-name="kbc-драма tic" group-title="Кинозалы KBC & Fresh",KBC-Драма Tic
+http://str6.oxtve.live:8080/KBC_dramatic/mpegts
+#EXTINF:-1 tvg-name="kbc-кошмарное" group-title="Кинозалы KBC & Fresh",KBC-Кошмарное
+http://str6.oxtve.live:8080/KBC_koshmarnoe/mpegts
+#EXTINF:-1 tvg-name="kbc-легендарное" group-title="Кинозалы KBC & Fresh",KBC-Легендарное
+http://str6.oxtve.live:8080/KBC_legend/mpegts
+#EXTINF:-1 tvg-name="kbc-спортмикс" group-title="Кинозалы KBC & Fresh",KBC-СпортМикс
+http://str6.oxtve.live:8080/KBC_sportmix/mpegts
+#EXTINF:-1 tvg-name="kbc-страна ссср" group-title="Кинозалы KBC & Fresh",KBC-Страна СССР
+http://str6.oxtve.live:8080/KBC_stranaUSSR/mpegts
+#EXTINF:-1 tvg-name="kbc-шпионское" group-title="Кинозалы KBC & Fresh",KBC-Шпионское
+http://str6.oxtve.live:8080/KBC_shpionskoe/mpegts
+#EXTINF:-1 tvg-name="kbc-100500" group-title="Кинозалы KBC & Fresh",KBC+100500
+http://str6.oxtve.live:8080/KBC_plus100500/mpegts
+#EXTINF:-1 tvg-name="kbc-animals" group-title="Кинозалы KBC & Fresh",KBC-Animals
+http://str6.oxtve.live:8080/KBC_animals/mpegts
+#EXTINF:-1 tvg-name="kbc-family animation" group-title="Кинозалы KBC & Fresh",KBC-Family Animation
+http://str6.oxtve.live:8080/KBC_FamilyAnimation/mpegts
+#EXTINF:-1 tvg-name="kbc-аниме" group-title="Кинозалы KBC & Fresh",KBC-Аниме
+http://str6.oxtve.live:8080/KBC_anime/mpegts
+#EXTINF:-1 tvg-name="kbc-наш rock" group-title="Кинозалы KBC & Fresh",KBC-НАШ ROCK
+http://str6.oxtve.live:8080/KBC_nashrock/mpegts
+#EXTINF:-1 tvg-name="kbc-союзмультзал" group-title="Кинозалы KBC & Fresh",KBC-Союзмультзал
+http://str6.oxtve.live:8080/KBC_soyuzmultzal/mpegts
+
+
+#EXTINF:-1 tvg-name="fresh adventure" group-title="Кинозалы KBC & Fresh",Fresh Adventure
+http://str6.oxtve.live:8080/Fresh_Adventure/mpegts
+
+#EXTINF:-1 tvg-name="fresh cinema" group-title="Кинозалы KBC & Fresh",Fresh Cinema
+http://str6.oxtve.live:8080/Fresh_Cinema/mpegts
+
+#EXTINF:-1 tvg-name="fresh comedy" group-title="Кинозалы KBC & Fresh",Fresh Comedy
+http://str6.oxtve.live:8080/Fresh_Comedy/mpegts
+
+#EXTINF:-1 tvg-name="fresh family" group-title="Кинозалы KBC & Fresh",Fresh Family
+http://str6.oxtve.live:8080/Fresh_Family/mpegts
+
+#EXTINF:-1 tvg-name="fresh fantastic" group-title="Кинозалы KBC & Fresh",Fresh Fantastic
+http://str6.oxtve.live:8080/Fresh_Fantastic/mpegts
+
+#EXTINF:-1 tvg-name="fresh horror" group-title="Кинозалы KBC & Fresh",Fresh Horror
+http://str6.oxtve.live:8080/Fresh_Horror/mpegts
+
+#EXTINF:-1 tvg-name="fresh kids" group-title="Кинозалы KBC & Fresh",Fresh Kids
+http://str6.oxtve.live:8080/Fresh_Kids/mpegts
+
+#EXTINF:-1 tvg-name="fresh premiere" group-title="Кинозалы KBC & Fresh",Fresh Premiere
+http://str6.oxtve.live:8080/Fresh_Premiere/mpegts
+
+#EXTINF:-1 tvg-name="fresh rating" group-title="Кинозалы KBC & Fresh",Fresh Rating
+http://str6.oxtve.live:8080/Fresh_Rating/mpegts
+
+#EXTINF:-1 tvg-name="fresh romantic" group-title="Кинозалы KBC & Fresh",Fresh Romantic
+http://str6.oxtve.live:8080/Fresh_Romantic/mpegts
+
+#EXTINF:-1 tvg-name="fresh russian" group-title="Кинозалы KBC & Fresh",Fresh Russian
+http://str6.oxtve.live:8080/Fresh_Russian/mpegts
+
+#EXTINF:-1 tvg-name="fresh series" group-title="Кинозалы KBC & Fresh",Fresh Series
+http://str6.oxtve.live:8080/Fresh_Series/mpegts
+
+#EXTINF:-1 tvg-name="fresh soviet" group-title="Кинозалы KBC & Fresh",Fresh Soviet
+http://str6.oxtve.live:8080/Fresh_Soviet/mpegts
+
+#EXTINF:-1 tvg-name="fresh thriller" group-title="Кинозалы KBC & Fresh",Fresh Thriller
+http://str6.oxtve.live:8080/Fresh_Thriller/mpegts
+
+#EXTINF:-1 tvg-name="fresh vhs" group-title="Кинозалы KBC & Fresh",Fresh VHS
+http://str6.oxtve.live:8080/Fresh_VHS/mpegts
+
 #EXTINF:-1 group-title="Кинозалы 3",BCU Action HD
 http://178.217.72.66:8080/BCUActionHD/index.m3u8
 
@@ -2345,8 +2542,8 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id253_MSKSG-PVR-1--Disney/03/plst.m3u8?
 #EXTINF:-1 tvg-id="mama" group-title="Детские", Мама
 http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="smaylik-tv" group-title="Детские", Смайлик ТВ
-http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQ4MDgzODAsImlhdCI6MTc1NDcyMTk4MCwiY2lkIjo2LCJ1aWQiOjkzNTgwNTgzMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.p7Cc3jxwWzuy0iUrV_hqXu35xls3aFqBxTMgiTq7beM&offset=3
+#EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские", Смайлик ТВ
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kidstv" group-title="Детские", Kids TV
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
