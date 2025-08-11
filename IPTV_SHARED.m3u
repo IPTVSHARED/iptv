@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/LOGO_FHD.mp4
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/QR.png" group-title="ИНФО", ПОДДЕРЖКА ПРОЕКТА
 https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/donat.mp4
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 11.08.2025г 13:30
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 11.08.2025г 15:50
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -975,13 +975,13 @@ http://178.217.72.66:8080/galaxyhd/index.m3u8
 http://176.96.241.40/NatGeoWildHD/index.m3u8
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild HD
-http://vod2.stb.tvime.ru/Nat_Geo_Wild_HD/video.m3u8
+http://188.237.47.212:6005
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic
 http://45.159.74.22/NationalGeographic/mono.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic HD
-http://vod2.stb.tvime.ru/National_Geographic_HD/video.m3u8
+http://178.217.72.66:8080/National_Geographic/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery
 http://45.159.74.22/DiscoveryChannel/mono.m3u8
@@ -990,7 +990,7 @@ http://45.159.74.22/DiscoveryChannel/mono.m3u8
 http://158.160.149.81:8080/3465/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery Channel HD
-http://vod2.stb.tvime.ru/Discovery_HD/video.m3u8
+http://178.217.72.66:8080/Discovery_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Xtra Европа
 http://178.217.72.66:8080/ID_Xtra/index.m3u8
