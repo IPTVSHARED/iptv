@@ -1017,17 +1017,16 @@ http://31.133.36.244:8000/174
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/nIIAe13ljVcq9gMv7Dd0LQ,1755032414/streaming/pmobile/324/1/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="the-explorers" group-title="Познавательные", The Explorers HD
-http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTUwNjU3ODAsImlhdCI6MTc1NDk3OTM4MCwiY2lkIjo2LCJ1aWQiOjkzNjQ2ODIyNywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.En95UF9GuPjQ_R2O4NbuMTaAG5FeCNZPyGeuZwGdeuA&offset=3
+#EXTINF:-1 tvg-id="the-explorers" group-title="Познавательные", The Explorers
 
 #EXTINF:-1 tvg-id="docubox-hd" group-title="Познавательные", DocuBox
 http://158.160.149.81:8080/1961/index.m3u8
 
-#EXTINF:-1 tvg-id="epic" group-title="Познавательные", Ep!c
-http://77.235.1.19:8000/play/a00v/index.m3u8
-
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="docubox-hd" group-title="Познавательные", DocuBox HD
 http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTUwNjU3ODAsImlhdCI6MTc1NDk3OTM4MCwiY2lkIjo2LCJ1aWQiOjkzNjQ2ODIyNywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.En95UF9GuPjQ_R2O4NbuMTaAG5FeCNZPyGeuZwGdeuA&offset=3
+
+#EXTINF:-1 tvg-id="epic" group-title="Познавательные", Ep!c
+http://77.235.1.19:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="hgtv" group-title="Познавательные", HGTV HD
 http://str6.oxtve.live:8080/HGTV_HD/mpegts
