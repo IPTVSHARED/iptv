@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/LOGO_FHD.mp4
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/QR.png" group-title="ИНФО", ПОДДЕРЖКА ПРОЕКТА
 https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/donat.mp4
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 18.08.2025г 13:30
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 18.08.2025г 16:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -958,7 +958,7 @@ http://158.101.222.193:88/georgia_play.php?id=viasatexp
 http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTU1ODU5ODAsImlhdCI6MTc1NTQ5OTU4MCwiY2lkIjo2LCJ1aWQiOjkzNzg2NTQ2NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.vvp32I1am99a1-NCp7gJ5CHGNJjimPzhqc2qoolPIlY&offset=3
 
 #EXTINF:-1 group-title="Познавательные",viju+ Planet HD
-http://178.219.160.169:8880/178/index.m3u8
+http://192.162.64.99:5000/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные",Terra
 http://45.11.139.43:8555/terra/index.m3u8
@@ -989,7 +989,7 @@ http://178.217.72.66:8080/galaxyhd/index.m3u8
 http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild HD
-http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
+http://188.237.47.212:6005
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic
 http://45.159.74.22/NationalGeographic/mono.m3u8
@@ -1001,7 +1001,7 @@ http://192.162.64.99:5000/play/a00u/index.m3u8
 http://45.159.74.22/DiscoveryChannel/mono.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery Channel
-http://217.113.25.67:8000/play/276
+http://158.160.149.81:8080/3465/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery Channel HD
 http://178.217.72.66:8080/Discovery_HD/video.m3u8
@@ -1040,15 +1040,12 @@ http://77.235.1.19:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="tlc" group-title="Познавательные", TLC
 http://45.159.74.22/TLC/mono.m3u8
 
-#EXTINF:-1 tvg-id="tlc" group-title="Познавательные", TLC HD
-http://178.219.160.169:8880/191/index.m3u8
-
 #EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" group-title="Познавательные", Вопросы и ответы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/8EpaJY5tImkjC7NwxRBTFg,1755550824/streaming/voprosi-otveti/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-logo="https://iptvx.one/picons/mir-uvlecheniy.png" group-title="Познавательные", #КтоКуда
-http://192.162.64.99:5000/play/a03f/index.m3u8
+http://77.235.1.19:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-id="myy" tvg-logo="https://iptvx.one/picons/myy.png" group-title="Познавательные", МЫ
 https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NjA5MTEwNSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1NDg2MzA1LCJzZXNzaW9uX2lkIjoiMGQ5ZWI3OTE5ZDJjMWIwYTk0OTM1ZjA0MzIzNjdlOWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.dcR8HnN-RV8Tor6qDiRR0tjGqw3_BbJ4O0_fe2fuftE
@@ -1083,20 +1080,20 @@ http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Приключения HD
 http://stream-msk-04.ott.tricolor.tv/dtv/id158_MSKSG-PVR-1--HD_Teletr/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NjA5MTEwNSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1NDg2MzA1LCJzZXNzaW9uX2lkIjoiMGQ5ZWI3OTE5ZDJjMWIwYTk0OTM1ZjA0MzIzNjdlOWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.dcR8HnN-RV8Tor6qDiRR0tjGqw3_BbJ4O0_fe2fuftE
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательные", Драйв
-http://api.peers.tv/timeshift/drive/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTU1ODU5ODAsImlhdCI6MTc1NTQ5OTU4MCwiY2lkIjo2LCJ1aWQiOjkzNzg2NTQ2NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.vvp32I1am99a1-NCp7gJ5CHGNJjimPzhqc2qoolPIlY&offset=3
+#EXTINF:-1 group-title="Познавательные", Драйв
+http://86.57.209.210/Drive/index.m3u8
 
 #EXTINF:-1 tvg-id="avto24" group-title="Познавательные", Авто 24
 http://158.101.222.193:88/georgia_play.php?id=auto24
 
 #EXTINF:-1 tvg-id="avto-plus" group-title="Познавательные", Авто Плюс
-http://178.219.160.169:8880/145/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=autoplus
 
 #EXTINF:-1 tvg-id="texno-24" tvg-id="texno-24" group-title="Познавательные", Техно 24
 http://stream-msk-03.ott.tricolor.tv/dtv/id283_MSKSG-PVR-1--Tehno24/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NjA5MTEwNSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1NDg2MzA1LCJzZXNzaW9uX2lkIjoiMGQ5ZWI3OTE5ZDJjMWIwYTk0OTM1ZjA0MzIzNjdlOWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.dcR8HnN-RV8Tor6qDiRR0tjGqw3_BbJ4O0_fe2fuftE
 
 #EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета
-http://tv.streams.baikal-telecom.net:8080/MoyaPlanetaHD/index.m3u8
+http://45.159.74.22/365Dney/mono.m3u8
 
 #EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета HD
 http://stream-msk-04.ott.tricolor.tv/dtv/id623_MSKSG-PVR-1--Moya_Planeta_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NjA5MTEwNSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1NDg2MzA1LCJzZXNzaW9uX2lkIjoiMGQ5ZWI3OTE5ZDJjMWIwYTk0OTM1ZjA0MzIzNjdlOWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.dcR8HnN-RV8Tor6qDiRR0tjGqw3_BbJ4O0_fe2fuftE
@@ -1144,7 +1141,7 @@ http://45.159.74.22/AnimalPlanet/mono.m3u8
 http://178.217.72.66:8080/big_planet/index.m3u8
 
 #EXTINF:-1 tvg-id="365-dnej" group-title="Познавательные", 365 дней ТВ
-http://77.235.1.19:8000/play/a055/index.m3u8
+http://185.46.16.239:8000/Paramount_Comedy
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="365-dnej" group-title="Познавательные", 365 дней HD
 http://api.peers.tv/timeshift/365_days/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTU1ODU5ODAsImlhdCI6MTc1NTQ5OTU4MCwiY2lkIjo2LCJ1aWQiOjkzNzg2NTQ2NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.vvp32I1am99a1-NCp7gJ5CHGNJjimPzhqc2qoolPIlY&offset=3
@@ -1162,10 +1159,7 @@ http://stream-msk-03.ott.tricolor.tv/dtv/id698_MSKSG-PVR-1--Top_secret/03/plst.m
 http://178.124.152.238:8088/rtg
 
 #EXTINF:-1 tvg-id="rtg-tv" group-title="Познавательные",RTG HD
-http://31.148.48.15/RTG_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="rtg-int" group-title="Познавательные",RTG Int
-http://212.70.131.12:8000/play/a0fl
+http://31.133.36.244:8000/178
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="glazami-turista" group-title="Познавательные", Глазами туриста
 http://api.peers.tv/timeshift/glazami_turista_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTU1ODU5ODAsImlhdCI6MTc1NTQ5OTU4MCwiY2lkIjo2LCJ1aWQiOjkzNzg2NTQ2NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.vvp32I1am99a1-NCp7gJ5CHGNJjimPzhqc2qoolPIlY&offset=3
@@ -1183,16 +1177,16 @@ https://stream-msk-11.ott.tricolor.tv/dtv/id654_MSKSG-PVR-1--Centralnoe_TV/04/pl
 http://158.160.149.81:8080/8850/index.m3u8
 
 #EXTINF:-1 tvg-id="dikiy" group-title="Познавательные", Дикий
-http://178.219.160.169:8880/30/index.m3u8
+http://192.162.64.99:5000/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательные", Дикая охота
-http://178.219.160.169:8880/70/index.m3u8
+http://192.162.64.99:5000/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательные", Дикая охота HD
 http://45.159.74.22/Channel_127/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательные", Дикая рыбалка
-http://178.219.160.169:8880/181/index.m3u8
+http://192.162.64.99:5000/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательные", Дикая рыбалка HD
 http://45.159.74.22/Channel_126/tracks-v1a1/mono.m3u8
@@ -1201,7 +1195,7 @@ http://45.159.74.22/Channel_126/tracks-v1a1/mono.m3u8
 http://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="Познавательные", Охота и Рыбалка
-http://178.219.160.169:8880/38/index.m3u8
+http://192.162.64.99:5000/play/a038/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="oxota-i-rybalka" group-title="Познавательные",Охота и рыбалка
 http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTU1ODU5ODAsImlhdCI6MTc1NTQ5OTU4MCwiY2lkIjo2LCJ1aWQiOjkzNzg2NTQ2NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.vvp32I1am99a1-NCp7gJ5CHGNJjimPzhqc2qoolPIlY&offset=3
@@ -1222,7 +1216,7 @@ https://stream-msk-12.ott.tricolor.tv:443/dtv/id665_MSKSG-PVR-1--Rybalov/04/plst
 https://stream-msk-04.ott.tricolor.tv/dtv/id590_MSKSG-PVR-1--Nasha_Tema/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NjA5MTEwNSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1NDg2MzA1LCJzZXNzaW9uX2lkIjoiMGQ5ZWI3OTE5ZDJjMWIwYTk0OTM1ZjA0MzIzNjdlOWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.dcR8HnN-RV8Tor6qDiRR0tjGqw3_BbJ4O0_fe2fuftE
 
 #EXTINF:-1 tvg-id="kluch" group-title="Познавательные",Ключ
-http://77.235.1.19:8000/play/a064/index.m3u8
+http://192.162.64.99:5000/play/a03q/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные",В мире животных HD
 https://stream-msk-04.ott.tricolor.tv/dtv/id160_MSKSG-PVR-1--HD_Anim_Fam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NjA5MTEwNSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1NDg2MzA1LCJzZXNzaW9uX2lkIjoiMGQ5ZWI3OTE5ZDJjMWIwYTk0OTM1ZjA0MzIzNjdlOWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.dcR8HnN-RV8Tor6qDiRR0tjGqw3_BbJ4O0_fe2fuftE
@@ -1247,7 +1241,7 @@ http://31.133.36.244:8000/171
 https://mhd128.iptv2022.com/p/EoebG7BPMKKetP68qIlO9Q,1755550823/streaming/travelxp/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="hd-life" group-title="Познавательные",Точка.РФ
-http://178.219.160.169:8880/59/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=hdlife
 
 #EXTINF:-1 tvg-id="zoopark" group-title="Познавательные", ЗооПарк
 http://178.134.1.158:8081/zoopark/index.m3u8
@@ -1262,13 +1256,10 @@ https://stream-msk-05.ott.tricolor.tv:443/dtv/id267_MSKSG-PVR-1--Zhivaya_Planeta
 http://stream-msk-04.ott.tricolor.tv/dtv/id259_MSKSG-PVR-1--Istoriya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NjA5MTEwNSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1NDg2MzA1LCJzZXNzaW9uX2lkIjoiMGQ5ZWI3OTE5ZDJjMWIwYTk0OTM1ZjA0MzIzNjdlOWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.dcR8HnN-RV8Tor6qDiRR0tjGqw3_BbJ4O0_fe2fuftE
 
 #EXTINF:-1 tvg-id="tochka-otryva" group-title="Познавательные", Точка отрыва
-http://77.235.1.19:8000/play/a06g/index.m3u8
+http://192.162.64.99:5000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-id="love-nature-4k" group-title="Познавательные", Love Nature
 http://181.188.216.5:18000/play/a01u/index.m3u8
-
-#EXTINF:-1 tvg-id="love-nature-4k" group-title="Познавательные", Love Nature HD
-https://tv1.arectv30.sbs/live/lovenature.m3u8
 
 #EXTINF:-1 tvg-id="nauka-20" group-title="Познавательные",Наука 2.0 HD
 http://stream-msk-10.ott.tricolor.tv/dtv/id653_MSKSG-PVR-1--Nauka_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NjA5MTEwNSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1NDg2MzA1LCJzZXNzaW9uX2lkIjoiMGQ5ZWI3OTE5ZDJjMWIwYTk0OTM1ZjA0MzIzNjdlOWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.dcR8HnN-RV8Tor6qDiRR0tjGqw3_BbJ4O0_fe2fuftE
