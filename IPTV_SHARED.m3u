@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/LOGO_FHD.mp4
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/QR.png" group-title="ИНФО", ПОДДЕРЖКА ПРОЕКТА
 https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/donat.mp4
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 22.08.2025г 12:00
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 22.08.2025г 13:50
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -422,6 +422,12 @@ http://185.57.68.33/110/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/p5DmdoGkPlSSO3QJUcihKw,1755896418/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="setanta-sports" group-title="Спортивные", Setanta Sports 1 HD
+http://tooontv.com:999/live/ere3444h/agape/1038.
+
+#EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Спортивные", Setanta Sports 2 HD
+http://158.160.149.81:8080/8829/index.m3u8
+
 #EXTINF:-1 tvg-id="setanta1-ge" group-title="Спортивные", Setanta Sports 1 Georgia
 http://94.43.1.138:8081/setanta1/index.m3u8
 
@@ -535,6 +541,15 @@ http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seetelecom.am/assets/img/channels/channel7.png" tvg-id="no_epg_sport" group-title="Спортивные", Fast Sport
 http://45.159.74.22/Channel_131/mono.m3u8
 
+#EXTINF:-1 tvg-id="qsport-kz" group-title="Спортивные", Q Arena
+http://158.160.149.81:8080/7080/index.m3u8
+
+#EXTINF:-1 tvg-id="qsport-kg" group-title="Спортивные", Q Sport Киргизия
+http://95.85.109.219:7000/play/a05u
+
+#EXTINF:-1 tvg-id="uzsport" group-title="Спортивные", UzSport
+https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/National_Olympic_Committee_of_Turkmenistan_logo.svg/1200px-National_Olympic_Committee_of_Turkmenistan_logo.svg.png" tvg-id="no_epg_sport" group-title="Спортивные", Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
@@ -559,6 +574,9 @@ http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/412606
 #EXTINF:-1 tvg-id="sky-sport-pl-de" group-title="Спортивные", Sky Sport Premier League [DE]
 http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/426457
 
+#EXTINF:-1 tvg-id="sky-sports-laliga-mx" group-title="Спортивные", Sky Sports LaLiga [MX]
+http://181.78.106.127:9000/play/ca030/index.m3u8
+
 #EXTINF:-1 tvg-id="sky-sport-top-event-de" group-title="Спортивные",Sky Sport Top Event [DE]
 http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/426454
 
@@ -576,6 +594,15 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn-us.png" group-title="Спортивные", ESPN
 http://181.188.216.5:18000/play/a0fb/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sports-1" group-title="Спортивные", Eleven Sports 1 HD [PL]
+https://kusnadipepenk.github.io/ntn/ele1.m3u8
+
+#EXTINF:-1 tvg-id="eleven-sport1-pt" group-title="Спортивные", DAZN 1 PT
+http://tooontv.com:999/live/ere3444h/agape/53387.ts
+
+#EXTINF:-1 tvg-id="eleven-sport2-pt" group-title="Спортивные", DAZN 2 PT
+http://tooontv.com:999/live/ere3444h/agape/53386.ts
 
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn2-nl.png" group-title="Спортивные", ESPN 2
 http://181.188.216.5:18000/play/a0oz/index.m3u8
@@ -2404,8 +2431,11 @@ http://178.219.160.169:8880/130/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские", Nickelodeon HD
 http://178.134.1.158:8081/nickelodeon/index.m3u8
 
+#EXTINF:-1 tvg-id="nick-jr" group-title="Детские", Nick Jr
+http://158.160.149.81:8080/520/tracks-v1a2/mono.m3u8
+
 #EXTINF:-1 group-title="Детские", TiJi
-http://178.219.160.169:8880/129/index.m3u8
+http://45.159.74.22/Tiji/mono.m3u8
 
 #EXTINF:-1 group-title="Детские", JimJam
 http://178.217.72.66:8080/JimJam/index.m3u8
