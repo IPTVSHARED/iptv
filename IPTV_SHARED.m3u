@@ -1032,6 +1032,9 @@ http://178.217.72.66:8080/ID_Xtra/index.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery
 http://45.159.74.22/InvestigationDiscovery/mono.m3u8
 
+#EXTINF:-1 tvg-id="history" group-title="Познавательные", History
+https://view.my-tv.biz/tv/30513613ac/90ccd64974/video.m3u8
+
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History HD
 http://45.159.74.22/Channel_123/mono.m3u8
 
@@ -1039,7 +1042,7 @@ http://45.159.74.22/Channel_123/mono.m3u8
 http://178.217.72.66:8080/insight/index.m3u8
 
 #EXTINF:-1 tvg-id="curiosity-stream" group-title="Познавательные", Curiosity Stream HD
-http://31.133.36.244:8000/174
+https://view.my-tv.biz/tv/7e0b703c7f/97fb80702f/video.m3u8
 
 #EXTINF:-1 tvg-id="perpetmobile" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" group-title="Познавательные", Перпетуум Мобиле
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
