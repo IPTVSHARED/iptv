@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/LOGO_FHD.mp4
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/QR.png" group-title="ИНФО", ПОДДЕРЖКА ПРОЕКТА
 https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/donat.mp4
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 29.08.2025г 14:10
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 29.08.2025г 16:35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -1105,9 +1105,6 @@ http://stream-msk-07.ott.tricolor.tv/dtv/id616_MSKSG-PVR-1--Mir_vokrug_HD/03/pls
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://i121.fastpic.org/big/2023/0516/82/abf0c600f233693a715cae61eefa2582.png" group-title="Познавательные", Эра
 http://stream-msk-05.ott.tricolor.tv/dtv/id630_MSKSG-PVR-1--Channel_LIVE3/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1Njg2Njg2NSwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2MjYyMDY1LCJzZXNzaW9uX2lkIjoiOGEzNWU2ZGRiZWY4Mzk3MTAxZmQ2MzcyZTkwN2EyMDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.c92hl_jxszlFFRAY2Qm-k1jFfn5gr6SssU3-942hehU
 
-#EXTINF:-1 tvg-logo="https://bewelltv.org/wp-content/uploads/2021/06/Be-Well-TV-Logo-e1622682652947.png" tvg-id="no_epg" group-title="Познавательные", Wellbeing TV
-https://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8
-
 #EXTINF:-1 group-title="Познавательные",Живи активно HD
 http://stream-msk-06.ott.tricolor.tv/dtv/id836_MSKSG-PVR-1--Zhivi_aktivno/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1Njg2Njg2NSwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2MjYyMDY1LCJzZXNzaW9uX2lkIjoiOGEzNWU2ZGRiZWY4Mzk3MTAxZmQ2MzcyZTkwN2EyMDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.c92hl_jxszlFFRAY2Qm-k1jFfn5gr6SssU3-942hehU
 
@@ -2158,164 +2155,6 @@ http://178.217.72.66:8080/CineMan_Top/index.m3u8
 #EXTINF:-1 group-title="Кинозалы 3",CineMan VHS HD
 http://178.217.72.66:8080/CineMan_VHS/index.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="ufo_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4k UFO" group-title="Кинозалы Clarity4k [тест]",Clarity4k UFO
-http://srvru.play-x.ru/channel/n648f8e6f/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="MovieNews" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Киноновинки" group-title="Кинозалы Clarity4k [тест]",Clarity4K Киноновинки
-http://srvru.play-x.ru/channel/n691dc098/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="stories_in_time_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Ужасы (VHS)" group-title="Кинозалы Clarity4k [тест]",Clarity4K Ужасы (VHS)
-http://srvru.play-x.ru/channel/3dc8c8ca/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="adventures_4K" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Приключения" group-title="Кинозалы Clarity4k [тест]",Clarity4K Приключения
-http://srvru.play-x.ru/channel/4f720b63/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="AutoMaster_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Avto Blog" group-title="Кинозалы Clarity4k [тест]",Clarity4K Avto Blog
-http://srvru.play-x.ru/channel/n7524485b/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="music_ukraine" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Ukrainian music" group-title="Кинозалы Clarity4k [тест]",Clarity4K Ukrainian music
-http://srvru.play-x.ru/channel/25107ce4/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="Netflix_4K" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Netflix" group-title="Кинозалы Clarity4k [тест]",Clarity4K Netflix
-http://srvru.play-x.ru/channel/n1fee9c7b/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="korean_music_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Korean music" group-title="Кинозалы Clarity4k [тест]",Clarity4K Korean music
-http://srvru.play-x.ru/channel/n6bd58c0a/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="bollywood_music_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Bollywood music" group-title="Кинозалы Clarity4k [тест]",Clarity4K Bollywood music
-http://srvru.play-x.ru/channel/n4564678f/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="russian_music_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Russian music" group-title="Кинозалы Clarity4k [тест]",Clarity4K Russian music
-http://srvru.play-x.ru/channel/n742e9af5/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="heavy_metal_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Heavy metal" group-title="Кинозалы Clarity4k [тест]",Clarity4K Heavy metal
-http://srvru.play-x.ru/channel/1c505ce1/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="horrors" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Ужасы" group-title="Кинозалы Clarity4k [тест]",Clarity4K Ужасы
-http://srvru.play-x.ru/channel/1bc9a3da/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="martial_arts_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4k Единоборства" group-title="Кинозалы Clarity4k [тест]",Clarity4k Единоборства
-http://srvru.play-x.ru/channel/7a7d3805/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="movie_90s_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4k КиноФраншизы" group-title="Кинозалы Clarity4k [тест]",Clarity4k КиноФраншизы
-http://srvru.play-x.ru/channel/n3d3048c7/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="youth_comedy4K_265" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Молодежные комедии" group-title="Кинозалы Clarity4k [тест]",Clarity4K Молодежные комедии
-http://srvru.play-x.ru/channel/n7901c6a5/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="animal_world_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Звериный мир" group-title="Кинозалы Clarity4k [тест]",Clarity4K Звериный мир
-http://srvru.play-x.ru/channel/23be666a/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="boevik_vhs_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4k Боевик (VHS)" group-title="Кинозалы Clarity4k [тест]",Clarity4k Боевик (VHS)
-http://srvru.play-x.ru/channel/1b8e1d49/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="DeepMe_4K" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4k DeepMe" group-title="Кинозалы Clarity4k [тест]",Clarity4k DeepMe
-http://srvru.play-x.ru/channel/n791202cf/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="Francemusic_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Eurovision" group-title="Кинозалы Clarity4k [тест]",Clarity4K Eurovision
-http://srvru.play-x.ru/channel/n2d5c53be/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="kinosharm_4K" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Киношарм" group-title="Кинозалы Clarity4k [тест]",Clarity4K Киношарм
-http://srvru.play-x.ru/channel/n78f7ead0/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="military_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4k Русские сериалы" group-title="Кинозалы Clarity4k [тест]",Clarity4k Русские сериалы
-http://srvru.play-x.ru/channel/5980b87b/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="multimir_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Мультимир" group-title="Кинозалы Clarity4k [тест]",Clarity4K Мультимир
-http://srvru.play-x.ru/channel/n590936b7/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="music_1_4K" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K World Music" group-title="Кинозалы Clarity4k [тест]",Clarity4K World Music
-http://srvru.play-x.ru/channel/n2e49a996/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="Walt_Disney_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Walt Disney" group-title="Кинозалы Clarity4k [тест]",Clarity4K Walt Disney
-http://srvru.play-x.ru/channel/6cf142f5/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="zapal_4K" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Запал" group-title="Кинозалы Clarity4k [тест]",Clarity4K Запал
-http://srvru.play-x.ru/channel/1b1e05c4/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="NBO_series_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K HBO series" group-title="Кинозалы Clarity4k [тест]",Clarity4K HBO series
-http://srvru.play-x.ru/channel/n664ee691/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="marvel4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Marvel" group-title="Кинозалы Clarity4k [тест]",Clarity4K Marvel
-http://srvru.play-x.ru/channel/n660e5cd4/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="Remastered" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Remastered music" group-title="Кинозалы Clarity4k [тест]",Clarity4K Remastered music
-http://srvru.play-x.ru/channel/7eaae26/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="anime" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4k Anime アニメ" group-title="Кинозалы Clarity4k [тест]",Clarity4k Anime アニメ
-http://srvru.play-x.ru/channel/n5c6dacc1/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="combat_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4k Боевик" group-title="Кинозалы Clarity4k [тест]",Clarity4k Боевик
-http://srvru.play-x.ru/channel/3b4c0399/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="concert_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4k Deep House" group-title="Кинозалы Clarity4k [тест]",Clarity4k Deep House
-http://srvru.play-x.ru/channel/n15d48627/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="Latinmusic_4K" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Latin music" group-title="Кинозалы Clarity4k [тест]",Clarity4K Latin music
-http://srvru.play-x.ru/channel/1385107c/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="RemasterWave_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K RemasterWave" group-title="Кинозалы Clarity4k [тест]",Clarity4K RemasterWave
-http://srvru.play-x.ru/channel/n1c387525/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="dramas_4K" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4k Драмы" group-title="Кинозалы Clarity4k [тест]",Clarity4k Драмы
-http://srvru.play-x.ru/channel/n483dc97a/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="comedy" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Комедия" group-title="Кинозалы Clarity4k [тест]",Clarity4K Комедия
-http://srvru.play-x.ru/channel/n7ddd649f/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="childrens_cartoons_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Мультляндия" group-title="Кинозалы Clarity4k [тест]",Clarity4K Мультляндия
-http://srvru.play-x.ru/channel/n35697ca1/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="twilight_aether_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4k Сумеречный Эфир" group-title="Кинозалы Clarity4k [тест]",Clarity4k Сумеречный Эфир
-http://srvru.play-x.ru/channel/n1d557842/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="fantastic" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Фантастика" group-title="Кинозалы Clarity4k [тест]",Clarity4K Фантастика
-http://srvru.play-x.ru/channel/79a80afb/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="asia_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Asia" group-title="Кинозалы Clarity4k [тест]",Clarity4K Asia
-http://srvru.play-x.ru/channel/n6405be49/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="GalaxyFilms_4K" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Galaxy Films" group-title="Кинозалы Clarity4k [тест]",Clarity4K Galaxy Films
-http://srvru.play-x.ru/channel/n20f3d9d4/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="cosmosmir_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Космомир" group-title="Кинозалы Clarity4k [тест]",Clarity4K Космомир
-http://srvru.play-x.ru/channel/n34dfb36e/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="relax_fireplace_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Города" group-title="Кинозалы Clarity4k [тест]",Clarity4K Города
-http://srvru.play-x.ru/channel/42954592/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="family_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Семейный" group-title="Кинозалы Clarity4k [тест]",Clarity4K Семейный
-http://srvru.play-x.ru/channel/n42bcae14/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="candid_fashion_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Мода ХХХ" group-title="Кинозалы Clarity4k [тест]",Clarity4K Мода ХХХ
-http://srvru.play-x.ru/channel/n7dd4ebb0/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="comedy_ssr_1_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Комедия СССР 1" group-title="Кинозалы Clarity4k [тест]",Clarity4K Комедия СССР 1
-http://srvru.play-x.ru/channel/n354c21d1/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="comedy_ssr_2_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Комедия СССР 2" group-title="Кинозалы Clarity4k [тест]",Clarity4K Комедия СССР 2
-http://srvru.play-x.ru/channel/n354c21d0/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="kinoids_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Kинодети Cсср" group-title="Кинозалы Clarity4k [тест]",Clarity4K Kинодети Cсср
-http://srvru.play-x.ru/channel/379810eb/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="UrbanBlack_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K UrbanBlack" group-title="Кинозалы Clarity4k [тест]",Clarity4K UrbanBlack
-http://srvru.play-x.ru/channel/n180c4206/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="gamefilm_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4k Game Film" group-title="Кинозалы Clarity4k [тест]",Clarity4k Game Film
-http://srvru.play-x.ru/channel/n67c6539b/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="Vselenaya_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4k Вселенная" group-title="Кинозалы Clarity4k [тест]",Clarity4k Вселенная
-http://srvru.play-x.ru/channel/4e01c2b2/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="made_in_the_USSR_4K" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K КиноСССР" group-title="Кинозалы Clarity4k [тест]",Clarity4K КиноСССР
-http://srvru.play-x.ru/channel/n7909e175/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="western_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4k Классика кино" group-title="Кинозалы Clarity4k [тест]",Clarity4k Классика кино
-http://srvru.play-x.ru/channel/48711b13/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="travel_dok_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Travel blog" group-title="Кинозалы Clarity4k [тест]",Clarity4K Travel blog
-http://srvru.play-x.ru/channel/n25c760a5/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="retro_hits_channel_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Театр" group-title="Кинозалы Clarity4k [тест]",Clarity4K Театр
-http://srvru.play-x.ru/channel/1bbb180e/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="cosmosmir_4k_2" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Космомир 2" group-title="Кинозалы Clarity4k [тест]",Clarity4K Космомир 2
-http://srvru.play-x.ru/channel/n7bc08bdc/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="triller_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Триллер" group-title="Кинозалы Clarity4k [тест]",Clarity4K Триллер
-http://srvru.play-x.ru/channel/2c889cb8/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="BluesString_4K" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K BluesString" group-title="Кинозалы Clarity4k [тест]",Clarity4K BluesString
-http://srvru.play-x.ru/channel/16651f3d/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="fantasy_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Фэнтези" group-title="Кинозалы Clarity4k [тест]",Clarity4K Фэнтези
-http://srvru.play-x.ru/channel/n53325ee5/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="uzasy_vhs_siries4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Ужасы VHS (siries)" group-title="Кинозалы Clarity4k [тест]",Clarity4K Ужасы VHS (siries)
-http://srvru.play-x.ru/channel/5c1355cb/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="comedy_vhs" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Комедия (VHS)" group-title="Кинозалы Clarity4k [тест]",Clarity4K Комедия (VHS)
-http://srvru.play-x.ru/channel/n754a40ef/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="fantastika_2" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Фантастика (siries)" group-title="Кинозалы Clarity4k [тест]",Clarity4K Фантастика (siries)
-http://srvru.play-x.ru/channel/n796cca95/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="skazki_sssr_1" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Ретро-Сказка 1" group-title="Кинозалы Clarity4k [тест]",Clarity4K Ретро-Сказка 1
-http://srvru.play-x.ru/channel/n35d229aa/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="skazki_sssr_2" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Ретро-Сказка 2" group-title="Кинозалы Clarity4k [тест]",Clarity4K Ретро-Сказка 2
-http://srvru.play-x.ru/channel/n35d229a9/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="nachse_kino_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K Наше кино" group-title="Кинозалы Clarity4k [тест]",Clarity4K Наше кино
-http://srvru.play-x.ru/channel/n2c45d90e/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="ufo_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K HDR Cinema MIX 1" group-title="Кинозалы Clarity4k [тест]",Clarity4K HDR Cinema MIX 1
-http://srvru.play-x.ru/channel/n7f4ad592/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="ufo_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K HDR Cinema MIX 2" group-title="Кинозалы Clarity4k [тест]",Clarity4K HDR Cinema MIX 2
-http://srvru.play-x.ru/channel/n7f4ad591/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="ufo_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K HDR Cinema MIX 3" group-title="Кинозалы Clarity4k [тест]",Clarity4K HDR Cinema MIX 3
-http://srvru.play-x.ru/channel/n7f4ad590/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="ufo_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K HDR Cinema MIX 4" group-title="Кинозалы Clarity4k [тест]",Clarity4K HDR Cinema MIX 4
-http://srvru.play-x.ru/channel/n7f4ad58f/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="ufo_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K HDR Cinema MIX 5" group-title="Кинозалы Clarity4k [тест]",Clarity4K HDR Cinema MIX 5
-http://srvru.play-x.ru/channel/n7f4ad58e/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="ufo_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K HDR Cinema MIX 6" group-title="Кинозалы Clarity4k [тест]",Clarity4K HDR Cinema MIX 6
-http://srvru.play-x.ru/channel/n7f4ad58d/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="ufo_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K HDR Cinema MIX 7" group-title="Кинозалы Clarity4k [тест]",Clarity4K HDR Cinema MIX 7
-http://srvru.play-x.ru/channel/n7f4ad58c/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="ufo_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K HDR Cinema MIX 8" group-title="Кинозалы Clarity4k [тест]",Clarity4K HDR Cinema MIX 8
-http://srvru.play-x.ru/channel/n7f4ad58b/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="ufo_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K HDR Cinema MIX 9" group-title="Кинозалы Clarity4k [тест]",Clarity4K HDR Cinema MIX 9
-http://srvru.play-x.ru/channel/n7f4ad58a/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1 tvg-id="ufo_4k" tvg-logo="https://play-x.ru/logo.png" tvg-name="Clarity4K HDR Cinema MIX 10" group-title="Кинозалы Clarity4k [тест]",Clarity4K HDR Cinema MIX 10
-http://srvru.play-x.ru/channel/n6a0fdc7e/index.m3u8?q=577950063c2ab3f157549e419e16d765
-
-
-
-
-
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=rnWUahboCDg_ZV7UfCL0sw&e=1756508847&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE", НТВ HD
@@ -3036,130 +2875,34 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 http://kino-1.catcast.tv/content/37739/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 1
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1502991&extension=ts
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 2
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1502992&extension=ts
+https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 3
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1502993&extension=ts
+https://dt9g97js2xsv9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rfve7l4mp37ko/SONOS45.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 4
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1502994&extension=ts
+https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 5
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1502995&extension=ts
+https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 6
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1502996&extension=ts
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 7
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1502997&extension=ts
+http://185.57.68.33/232/mpegts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 8
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1502998&extension=ts
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 9
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1502999&extension=ts
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 10
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1503000&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 11
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1503001&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 12
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1503002&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 13
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1503003&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 14
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1503004&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 15
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1503005&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 16
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1502985&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 17
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1502986&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 18
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505566&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 19
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505571&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 20
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505572&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 21
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505565&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 22
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1503007&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 23
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505558&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 24
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1502988&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 25
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505567&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 26
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505561&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 27
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505568&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 28
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1503006&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 29
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505557&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 30
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505569&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 31
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505575&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 32
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1502989&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 33
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505562&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 34
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505574&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 35
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505559&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 36
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1503008&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 37
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1502990&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 38
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505576&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 39
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1502984&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 40
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505563&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 41
-http://skipcf.cwdn.cx/play/live.php?mac=00:1A:79:37:2F:19&stream=1505564&extension=ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 42
-https://dt9g97js2xsv9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rfve7l4mp37ko/SONOS45.m3u8
+#EXTINF:-1 tvg-logo="https://bewelltv.org/wp-content/uploads/2021/06/Be-Well-TV-Logo-e1622682652947.png" tvg-id="no_epg" group-title="Relax", Wellbeing TV
+https://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Cozy Vibes
 https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8
