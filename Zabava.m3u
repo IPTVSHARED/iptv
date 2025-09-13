@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
+#EXTINF:-1,ИНФОКАНАЛ
+https://github.com/CrocoUser/files/raw/refs/heads/main/infokanal.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="pervy",Первый
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -327,8 +329,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STVHD/variant.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EVPATORIATVHD/variant.m3u8
 #EXTINF:-1 group-title="Республика Крым",ТРК-555 HD
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8
 #EXTINF:-1 group-title="Москва" tvg-id="pervy",Первый (Москва)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
@@ -341,15 +341,12 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:-1 group-title="Москва" tvg-id="kultura",Россия К (Москва)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
-#EXTINF:-1 group-title="Москва" tvg-id="rossia-24",Россия 24 (Москва)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Москва" tvg-id="karusel",Карусель (Москва)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="Москва" tvg-id="tvcentr",ТВ Центр (Москва)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF:-1 group-title="Москва" tvg-id="zvezda",Звезда (Москва)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="Москва" tvg-id="che",Че! (Москва)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
@@ -1385,6 +1382,57 @@ https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Тверь" tvg-id="yu",Ю (Тверь)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="pervy",Первый канал (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R03_1TV_TVR/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="rossia1",Россия 1 (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_TVR/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="match-tv",Матч ТВ (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2_TVR/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="ntv",НТВ (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R03_NTV_TVR/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="5kanal-ru",Пятый канал (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R02_5TV_TVR/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="kultura",Россия К (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_TVR/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="rossia-24",Россия 24 (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_TVR/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="karusel",Карусель (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_TVR/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="otr",ОТР (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_OTR_TVR/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="tvcentr",ТВ Центр (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R04_TVC_TVR/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="rentv",РЕН ТВ (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_TVR/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="sts",СТС (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R02_STS_TVR/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="domashny",Домашний (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_TVR/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="tv3-ru",ТВ-3 (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TV3_TVR/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="piatnica",Пятница! (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_TVR/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="zvezda",Звезда (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_TVR/variant.m3u8
+#EXTINF:-1 group-title="Тверь" tvg-id="tnt",ТНТ (Тверь)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TNT_TVR/variant.m3u8
 #EXTINF:-1 group-title="Тверь" tvg-id="panorama-tv-tver",Панорама ТВ (Тверь)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
@@ -1571,6 +1619,57 @@ https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Воронеж" tvg-id="yu",Ю (Воронеж)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="pervy",Первый канал (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R03_1TV_VOR/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="rossia1",Россия 1 (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_VOR/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="match-tv",Матч ТВ (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2_VOR/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="ntv",НТВ (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R03_NTV_VOR/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="5kanal-ru",Пятый канал (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_5TV_VOR/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="kultura",Россия К (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_VOR/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="rossia-24",Россия 24 (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_VOR/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="karusel",Карусель (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_VOR/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="otr",ОТР (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTR_VOR/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="tvcentr",ТВ Центр (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R04_TVC_VOR/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="rentv",РЕН ТВ (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_VOR/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="sts",СТС (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_STS_VOR/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="domashny",Домашний (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_VOR/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="tv3-ru",ТВ-3 (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_TV3_VOR/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="piatnica",Пятница! (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_VOR/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="zvezda",Звезда (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_VOR/variant.m3u8
+#EXTINF:-1 group-title="Воронеж" tvg-id="tnt",ТНТ (Воронеж)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_TNT_VOR/variant.m3u8
 #EXTINF:-1 group-title="Воронеж" tvg-id="vtk-argus",ВТК 41 Аргус (Воронеж)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
@@ -1820,9 +1919,6 @@ https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_NAO/variant.m3u8
 #EXTINF:-1 group-title="Архангельск" tvg-id="tnt",ТНТ (Ненецкий АО)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_TNT_NAO/variant.m3u8
-#EXTINF:-1 group-title="Архангельск" tvg-id="kotlastv",Котлас 24 (Котлас)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_KOTLASTV/variant.m3u8
 #EXTINF:-1 group-title="Архангельск" tvg-id="sever",Север (Ненецкий АО)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_SEVER/variant.m3u8
@@ -1832,7 +1928,7 @@ https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
 #EXTINF:-1 group-title="Архангельск" tvg-id="region29",Регион 29 (Архангельск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
-#EXTINF:-1 group-title="Калининград" tvg-id="rossia1",Россия 1 (Калининград)
+#EXTINF:-1 group-title="Калининград" tvg-id="rossia1-m1",Россия 1 (Калининград)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Калининград" tvg-id="match-tv",Матч ТВ (Калининград)
@@ -2051,6 +2147,9 @@ https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_OTR_MURM_FILIAL/variant.m3u8
 #EXTINF:-1 group-title="Мурманск" tvg-id="mir",МИР (Мурманск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R02_MIR_MURM_FILIAL/variant.m3u8
+#EXTINF:-1 group-title="Мурманск" tvg-id="tv21plus",ТВ21+ (Мурманск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
 #EXTINF:-1 group-title="Мурманск" tvg-id="arktik-tv",Арктик-ТВ (Мурманск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
@@ -2819,52 +2918,52 @@ https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV_CHITA/variant.m3u8
 #EXTINF:-1 group-title="Чита" tvg-id="match-tv",Матч ТВ (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R04_MATCH_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="ntv-pl4",НТВ (Чита)
+#EXTINF:-1 group-title="Чита" tvg-id="ntv-pl7",НТВ (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_NTV_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="5kanal-ru-pl4",Пятый (Чита)
+#EXTINF:-1 group-title="Чита" tvg-id="5kanal-ru-pl7",Пятый (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_5TV_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="kultura-pl4",Россия К (Чита)
+#EXTINF:-1 group-title="Чита" tvg-id="kultura-pl7",Россия К (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_CHITA/variant.m3u8
 #EXTINF:-1 group-title="Чита" tvg-id="rossia-24",Россия 24 (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="karusel-pl4",Карусель (Чита)
+#EXTINF:-1 group-title="Чита" tvg-id="karusel-pl7",Карусель (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="tvcentr-pl4",ТВ Центр (Чита)
+#EXTINF:-1 group-title="Чита" tvg-id="tvcentr-pl7",ТВ Центр (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R04_TVC_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="rentv-pl4",РЕН ТВ (Чита)
+#EXTINF:-1 group-title="Чита" tvg-id="rentv-pl7",РЕН ТВ (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="sts-pl4",СТС (Чита)
+#EXTINF:-1 group-title="Чита" tvg-id="sts-pl7",СТС (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_STS_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="domashny-pl4",Домашний (Чита)
+#EXTINF:-1 group-title="Чита" tvg-id="domashny-pl7",Домашний (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="tv3-ru-pl4",ТВ-3 (Чита)
+#EXTINF:-1 group-title="Чита" tvg-id="tv3-ru-pl7",ТВ-3 (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_TV3_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="piatnica-pl4",Пятница! (Чита)
+#EXTINF:-1 group-title="Чита" tvg-id="piatnica-pl7",Пятница! (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="zvezda-pl4",Звезда (Чита)
+#EXTINF:-1 group-title="Чита" tvg-id="zvezda-pl7",Звезда (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="mir-pl4",МИР (Чита)
+#EXTINF:-1 group-title="Чита" tvg-id="mir-pl7",МИР (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_MIR_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="tnt-pl4",ТНТ (Чита)
+#EXTINF:-1 group-title="Чита" tvg-id="tnt-pl7",ТНТ (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_TNT_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="muztv-pl4",МУЗ-ТВ (Чита)
+#EXTINF:-1 group-title="Чита" tvg-id="muztv-pl7",МУЗ-ТВ (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R04_MUZTV_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="otr-pl4",ОТР (Чита)
+#EXTINF:-1 group-title="Чита" tvg-id="otr-pl6",ОТР (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTR_CHTA/variant.m3u8
 #EXTINF:-1 group-title="Чита" tvg-id="pervy-pl6",Первый (Забайкальский Край)
@@ -2879,58 +2978,58 @@ https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1_ZK/variant.m3u
 #EXTINF:-1 group-title="Чита" tvg-id="match-tv",Матч ТВ (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_MATCHTV_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="ntv-pl4",НТВ (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="ntv-pl7",НТВ (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_NTV_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="5kanal-ru-pl4",Пятый (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="5kanal-ru-pl7",Пятый (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_5KANAL_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="kultura-pl4",Россия К (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="kultura-pl7",Россия К (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIAK_ZK/variant.m3u8
 #EXTINF:-1 group-title="Чита" tvg-id="rossia-24",Россия 24 (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="karusel-pl4",Карусель (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="karusel-pl7",Карусель (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="otr-pl4",ОТР (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="otr-pl6",ОТР (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTR_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="otr-pl4",ОТР (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="otr-pl6",ОТР (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_OTR_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="rentv-pl4",РЕН ТВ (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="rentv-pl7",РЕН ТВ (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_RENTV_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="spas-pl2",Спас (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="spas-pl7",Спас (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_SPAS_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="sts-pl4",СТС (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="sts-pl7",СТС (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_STS_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="domashny-pl4",Домашний (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="domashny-pl7",Домашний (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_DOMASHN_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="tv3-ru-pl4",ТВ-3 (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="tv3-ru-pl7",ТВ-3 (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_TV3_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="piatnica-pl4",Пятница! (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="piatnica-pl7",Пятница! (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_PYATNITSA_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="zvezda-pl4",Звезда (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="zvezda-pl7",Звезда (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_ZVEZDA_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="mir-pl4",МИР (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="mir-pl7",МИР (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_MIR_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="tnt-pl4",ТНТ (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="tnt-pl7",ТНТ (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_TNT_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="muztv-pl4",МУЗ-ТВ (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="muztv-pl7",МУЗ-ТВ (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_MUZTV_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="che-pl4",Че! (Забайкальский Край)
+#EXTINF:-1 group-title="Чита" tvg-id="che-pl7",Че! (Забайкальский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ_ZK/variant.m3u8
 #EXTINF:-1 group-title="Чита" tvg-id="zabajkajkalje",Забайкалье (Забайкальский Край)
@@ -3740,10 +3839,10 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_OMSK/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="match-tv",Матч ТВ (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_MATCH_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="ntv-pl2",НТВ (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="ntv-pl3",НТВ (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="5kanal-ru-pl2",Пятый (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="5kanal-ru-pl4",Пятый (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_5TV_OMSK/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="kultura-pl2",Россия К (Омск)
@@ -3752,43 +3851,43 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_OMSK/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="rossia-24",Россия 24 (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="karusel-pl2",Карусель (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="karusel-pl3",Карусель (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_OMSK/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="otr-pl2",ОТР (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTR_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="tvcentr-pl2",ТВ Центр (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="tvcentr-pl4",ТВ Центр (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_TVC_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="rentv-pl2",РЕН ТВ (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="rentv-pl4",РЕН ТВ (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_OMSK/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="spas-pl2",Спас (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_SPAS_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="sts-pl2",СТС (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="sts-pl4",СТС (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_STS_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="domashny-pl2",Домашний (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="domashny-pl4",Домашний (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="tv3-ru-pl2",ТВ-3 (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="tv3-ru-pl3",ТВ-3 (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="piatnica-pl2",Пятница! (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="piatnica-pl3",Пятница! (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="zvezda-pl2",Звезда (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="zvezda-pl4",Звезда (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="mir-pl2",МИР (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="mir-pl4",МИР (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_MIR_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="tnt-pl2",ТНТ (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="tnt-pl3",ТНТ (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="muztv-pl2",МУЗ-ТВ (Омск)
+#EXTINF:-1 group-title="Омск" tvg-id="muztv-pl4",МУЗ-ТВ (Омск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_MUZTV_OMSK/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="pervy-pl3",Первый (Омская Область)
@@ -3800,10 +3899,10 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_OMSKOBL/variant.m3u
 #EXTINF:-1 group-title="Омск" tvg-id="match-tv",Матч ТВ (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="ntv-pl2",НТВ (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="ntv-pl3",НТВ (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="5kanal-ru-pl2",Пятый (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="5kanal-ru-pl4",Пятый (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_5TV_OMSKOBL/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="kultura-pl2",Россия К (Омская Область)
@@ -3812,49 +3911,49 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_OMSKOBL/variant.m3u
 #EXTINF:-1 group-title="Омск" tvg-id="rossia-24",Россия 24 (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="karusel-pl2",Карусель (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="karusel-pl3",Карусель (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_OMSKOBL/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="otr-pl2",ОТР (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTR_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="tvcentr-pl2",ТВ Центр (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="tvcentr-pl4",ТВ Центр (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_TVC_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="rentv-pl2",РЕН ТВ (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="rentv-pl4",РЕН ТВ (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_RENTV_OMSKOBL/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="spas-pl2",Спас (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_SPAS_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="sts-pl2",СТС (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="sts-pl4",СТС (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_STS_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="domashny-pl2",Домашний (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="domashny-pl4",Домашний (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_DOMASHNIY_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="tv3-ru-pl2",ТВ-3 (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="tv3-ru-pl3",ТВ-3 (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="piatnica-pl2",Пятница! (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="piatnica-pl3",Пятница! (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="zvezda-pl2",Звезда (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="zvezda-pl4",Звезда (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ZVEZDA_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="mir-pl2",МИР (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="mir-pl4",МИР (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_MIR_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="tnt-pl2",ТНТ (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="tnt-pl3",ТНТ (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="muztv-pl2",МУЗ-ТВ (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="muztv-pl4",МУЗ-ТВ (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_MUZTV_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="yu-pl2",Ю (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="yu-pl4",Ю (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_U_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="2na2-pl2",2x2 (Омская Область)
+#EXTINF:-1 group-title="Омск" tvg-id="2na2-pl4",2x2 (Омская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_2X2_OMSKOBL/variant.m3u8
 #EXTINF:-1 group-title="Омск" tvg-id="12-omsk",12 канал (Омск)
@@ -4148,7 +4247,7 @@ https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Астрахань" tvg-id="match-tv",Матч ТВ (Астрахань)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
-#EXTINF:-1 group-title="Астрахань" tvg-id="ntv",НТВ (Астрахань)
+#EXTINF:-1 group-title="Астрахань" tvg-id="ntv-pl1",НТВ (Астрахань)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:-1 group-title="Астрахань" tvg-id="5kanal-ru",Пятый (Астрахань)
@@ -4205,7 +4304,7 @@ https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_AST/variant.m3u8
 #EXTINF:-1 group-title="Астрахань" tvg-id="match-tv",Матч ТВ (Астрахань)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2_AST/variant.m3u8
-#EXTINF:-1 group-title="Астрахань" tvg-id="ntv",НТВ (Астрахань)
+#EXTINF:-1 group-title="Астрахань" tvg-id="ntv-pl1",НТВ (Астрахань)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_NTV_AST/variant.m3u8
 #EXTINF:-1 group-title="Астрахань" tvg-id="5kanal-ru",Пятый (Астрахань)
@@ -4391,9 +4490,9 @@ https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R06_MUZTV_KALM/variant.m3u8
 #EXTINF:-1 group-title="Элиста" tvg-id="xamdan-kalm24",НТК (Элиста)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_HAMDAN/variant.m3u8
-#EXTINF:-1 group-title="Краснодар" tvg-id="sts",СТС (Краснодар)
+#EXTINF:-1 group-title="Краснодар" tvg-id="domashny",Домашний (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 #EXTINF:-1 group-title="Краснодар" tvg-id="che",Че! (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
@@ -4406,6 +4505,9 @@ https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRD/variant.m3u8
 #EXTINF:-1 group-title="Краснодар" tvg-id="rossia1",Россия 1 (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KRD/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="match-tv",Матч ТВ (Краснодар)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2_KRD/variant.m3u8
 #EXTINF:-1 group-title="Краснодар" tvg-id="ntv",НТВ (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_NTV_KRD/variant.m3u8
@@ -4445,42 +4547,111 @@ https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_MIR_KRD/variant.m3u8
 #EXTINF:-1 group-title="Краснодар" tvg-id="tnt",ТНТ (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_TNT_KRD/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="pervy",Первый (Краснодарский Край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRR/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="match-tv",Матч ТВ (Краснодарский Край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2_KRR/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="ntv",НТВ (Краснодарский Край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_NTV_KRR/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="5kanal-ru",Пятый (Краснодарский Край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_5TV_KRR/variant.m3u8
 #EXTINF:-1 group-title="Краснодар" tvg-id="kultura",Россия К (Краснодарский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_KRR/variant.m3u8
 #EXTINF:-1 group-title="Краснодар" tvg-id="karusel",Карусель (Краснодарский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_KRR/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="otr",ОТР (Краснодарский Край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KRR/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="tvcentr",ТВ Центр (Краснодарский Край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_TVC_KRR/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="rentv",РЕН ТВ (Краснодарский Край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_KRR/variant.m3u8
 #EXTINF:-1 group-title="Краснодар" tvg-id="spas",Спас (Краснодарский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_SPAS_KRR/variant.m3u8
-#EXTINF:-1 group-title="Краснодар" tvg-id="piatnica",Пятница! (Краснодарский Край)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_KRR/variant.m3u8
 #EXTINF:-1 group-title="Краснодар" tvg-id="rossia1",Россия 1 (Краснодарский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KKR/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="domashny",Домашний (Краснодарский Край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_KKR/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="tv3-ru",ТВ-3 (Краснодарский Край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_TV3_KKR/variant.m3u8
 #EXTINF:-1 group-title="Краснодар" tvg-id="mir",МИР (Краснодарский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_MIR_KKR/variant.m3u8
 #EXTINF:-1 group-title="Краснодар" tvg-id="muztv",МУЗ-ТВ (Краснодарский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_MUZTV_KKR/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="pervy",Первый (Сочи)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_1TV_SCH/variant.m3u8
 #EXTINF:-1 group-title="Краснодар" tvg-id="rossia1",Россия 1 (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_SCH/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="ntv",НТВ (Сочи)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_NTV_SCH/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="otr",ОТР (Сочи)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTR_SCH/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="tvcentr",ТВ Центр (Сочи)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_TVC_SCH/variant.m3u8
 #EXTINF:-1 group-title="Краснодар" tvg-id="rentv",РЕН ТВ (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_SCH/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="sts",СТС (Сочи)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_STS_SCH/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="tv3-ru",ТВ-3 (Сочи)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_TV3_SCH/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="piatnica",Пятница! (Сочи)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_SCH/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="mir",МИР (Сочи)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_MIR_SCH/variant.m3u8
 #EXTINF:-1 group-title="Краснодар" tvg-id="tnt",ТНТ (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_TNT_SCH/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="match-tv",Матч ТВ (Новороссийск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2_NVR/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="ntv",НТВ (Новороссийск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_NTV_NVR/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="5kanal-ru",Пятый (Новороссийск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_5TV_NVR/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="sts",СТС (Новороссийск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_STS-NVR/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="piatnica",Пятница! (Новороссийск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_NVS/variant.m3u8
 #EXTINF:-1 group-title="Краснодар" tvg-id="rossia1",Россия 1 (Республика Адыгея)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_2/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="5kanal-ru",Пятый (Республика Адыгея)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_5TV_2/variant.m3u8
 #EXTINF:-1 group-title="Краснодар" tvg-id="otr",ОТР (Республика Адыгея)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTR_ADG/variant.m3u8
+#EXTINF:-1 group-title="Краснодар" tvg-id="tnt",ТНТ (Республика Адыгея)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_TNT-ADG/variant.m3u8
 #EXTINF:-1 group-title="Краснодар" tvg-id="gln24",GLN News (Геленджик)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_GELENDZHIK/variant.m3u8
@@ -4571,9 +4742,6 @@ https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_DAGESTAN/variant.m3u8
 #EXTINF:-1 group-title="Махачкала" tvg-id="nnt",ННТ (Махачкала)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_NNT/variant.m3u8
-#EXTINF:-1 group-title="Майкоп" tvg-id="sts",СТС (Майкоп)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 #EXTINF:-1 group-title="Майкоп" tvg-id="che",Че! (Майкоп)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
@@ -5363,12 +5531,18 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_ZLAT/variant.m3
 #EXTINF:-1 group-title="Челябинск" tvg-id="mir-pl2",МИР (Златоуст)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_MIR_ZLAT/variant.m3u8
+#EXTINF:-1 group-title="Челябинск" tvg-id="ntv-pl2",НТВ (Челябинская Область)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R03_NTV_URAL_CHELOBL/variant.m3u8
 #EXTINF:-1 group-title="Челябинск" tvg-id="rossia-24",Россия 24 (Челябинская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_URAL_CHELOBL/variant.m3u8
 #EXTINF:-1 group-title="Челябинск" tvg-id="otr-pl2",ОТР (Челябинская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTR_CHELOBL/variant.m3u8
+#EXTINF:-1 group-title="Челябинск" tvg-id="tvcentr-pl2",ТВ Центр (Челябинская Область)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_TVC_URAL_CHELOBL/variant.m3u8
 #EXTINF:-1 group-title="Челябинск" tvg-id="rentv-pl2",РЕН ТВ (Челябинская Область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_URAL_CHELOBL/variant.m3u8
@@ -5909,6 +6083,9 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_RUSS1_URAL_NIZH/variant
 #EXTINF:-1 group-title="Сургут" tvg-id="tnt-pl2",ТНТ (Нижневартовск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNT_URAL_NIZH/variant.m3u8
+#EXTINF:-1 group-title="Сургут" tvg-id="tv3-ru-pl2",ТВ-3 (Ханты-Мансийский АО)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TV3_HM/variant.m3u8
 #EXTINF:-1 group-title="Сургут" tvg-id="tnt-pl2",ТНТ (Ханты-Мансийский АО)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_URAL_HM/variant.m3u8
@@ -6143,7 +6320,7 @@ https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Ижевск" tvg-id="match-tv",Матч ТВ (Ижевск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIA2/variant.m3u8
-#EXTINF:-1 group-title="Ижевск" tvg-id="ntv",НТВ (Ижевск)
+#EXTINF:-1 group-title="Ижевск" tvg-id="ntv-pl1",НТВ (Ижевск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:-1 group-title="Ижевск" tvg-id="5kanal-ru",Пятый (Ижевск)
@@ -6401,9 +6578,6 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_NN/variant.m3u8
 #EXTINF:-1 group-title="Нижний Новгород" tvg-id="dzenzhinsk-tv",Дзержинск-ТВ (Дзержинск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
-#EXTINF:-1 group-title="Нижний Новгород" tvg-id="k16-sarov",Канал-16 (Саров)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_KANAL16/variant.m3u8
 #EXTINF:-1 group-title="Нижний Новгород" tvg-id="nn-24",Нижний Новгород 24 (Нижний Новгород)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_NN24/variant.m3u8
@@ -6416,9 +6590,6 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_HUZUR/variant.m3u8
 #EXTINF:-1 group-title="Нижний Новгород" tvg-id="nntv",Нижний Новгород 24 (Нижний Новгород)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
-#EXTINF:-1 group-title="Нижний Новгород" tvg-id="naczhk",НЖК (Нижний Новгород)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_NZHK/variant.m3u8
 #EXTINF:-1 group-title="Нижний Новгород" tvg-id="volga",Волга-ТВ (Нижний Новгород)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
@@ -6605,7 +6776,10 @@ https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1 group-title="Самара" tvg-id="rossia1-pl1",Россия 1 (Самара)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Самара" tvg-id="ntv",НТВ (Самара)
+#EXTINF:-1 group-title="Самара" tvg-id="match-tv",Матч ТВ (Самара)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIA2/variant.m3u8
+#EXTINF:-1 group-title="Самара" tvg-id="ntv-pl1",НТВ (Самара)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:-1 group-title="Самара" tvg-id="5kanal-ru",Пятый (Самара)
@@ -6680,7 +6854,7 @@ https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Саратов" tvg-id="match-tv",Матч ТВ (Саратов)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIA2/variant.m3u8
-#EXTINF:-1 group-title="Саратов" tvg-id="ntv",НТВ (Саратов)
+#EXTINF:-1 group-title="Саратов" tvg-id="ntv-pl1",НТВ (Саратов)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:-1 group-title="Саратов" tvg-id="5kanal-ru",Пятый (Саратов)
@@ -6815,7 +6989,7 @@ https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1 group-title="Ульяновск" tvg-id="rossia1-pl1",Россия 1 (Ульяновск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Ульяновск" tvg-id="ntv",НТВ (Ульяновск)
+#EXTINF:-1 group-title="Ульяновск" tvg-id="ntv-pl1",НТВ (Ульяновск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:-1 group-title="Ульяновск" tvg-id="5kanal-ru",Пятый (Ульяновск)
@@ -6944,7 +7118,7 @@ https://s14131.cdn.ngenix.net/hls/CH_R41_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Камчатка" tvg-id="rossia-24",Россия 24 (Камчатка)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Камчатка" tvg-id="otr-pl7",ОТР (Камчатка)
+#EXTINF:-1 group-title="Камчатка" tvg-id="otr-pl8",ОТР (Камчатка)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTR/variant.m3u8
 #EXTINF:-1 group-title="Камчатка" tvg-id="tv3-ru-pl7",ТВ-3 (Камчатка)
@@ -6986,7 +7160,7 @@ https://s14553.cdn.ngenix.net/hls/CH_R65_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Сахалин" tvg-id="rossia-24",Россия 24 (Сахалин)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s14553.cdn.ngenix.net/hls/CH_R65_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Сахалин" tvg-id="otr-pl7",ОТР (Сахалин)
+#EXTINF:-1 group-title="Сахалин" tvg-id="otr-pl8",ОТР (Сахалин)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s14553.cdn.ngenix.net/hls/CH_R65_OTR/variant.m3u8
 #EXTINF:-1 group-title="Сахалин" tvg-id="tv3-ru-pl7",ТВ-3 (Сахалин)
@@ -7055,7 +7229,7 @@ https://s20441.cdn.ngenix.net/hls/CH_R49_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Магадан" tvg-id="rossia-24",Россия 24 (Магадан)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s20441.cdn.ngenix.net/hls/CH_R49_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Магадан" tvg-id="otr-pl7",ОТР (Магадан)
+#EXTINF:-1 group-title="Магадан" tvg-id="otr-pl8",ОТР (Магадан)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTR/variant.m3u8
 #EXTINF:-1 group-title="Магадан" tvg-id="tv3-ru-pl7",ТВ-3 (Магадан)
@@ -7094,16 +7268,16 @@ https://s34351.cdn.ngenix.net/hls/CH_R14_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Якутск" tvg-id="rossia-24",Россия 24 (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R14_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="otr-pl4",ОТР (Якутск)
+#EXTINF:-1 group-title="Якутск" tvg-id="otr-pl6",ОТР (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R14_OTR/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="tv3-ru-pl4",ТВ-3 (Якутск)
+#EXTINF:-1 group-title="Якутск" tvg-id="tv3-ru-pl7",ТВ-3 (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R14_TV3/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="piatnica-pl4",Пятница! (Якутск)
+#EXTINF:-1 group-title="Якутск" tvg-id="piatnica-pl7",Пятница! (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R14_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="tnt-pl4",ТНТ (Якутск)
+#EXTINF:-1 group-title="Якутск" tvg-id="tnt-pl7",ТНТ (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R14_TNT/variant.m3u8
 #EXTINF:-1 group-title="Якутск" tvg-id="pervy-pl6",Первый (Якутск)
@@ -7115,37 +7289,37 @@ https://s34351.cdn.ngenix.net/hls/CH_R04_ROSSIA1_YKT/variant.m3u8
 #EXTINF:-1 group-title="Якутск" tvg-id="match-tv",Матч ТВ (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R01_MATCHTV_YKT/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="ntv-pl4",НТВ (Якутск)
+#EXTINF:-1 group-title="Якутск" tvg-id="ntv-pl7",НТВ (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R03_NTV_YKT/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="5kanal-ru-pl4",Пятый (Якутск)
+#EXTINF:-1 group-title="Якутск" tvg-id="5kanal-ru-pl7",Пятый (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R02_5TV_YKT/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="kultura-pl4",Россия К (Якутск)
+#EXTINF:-1 group-title="Якутск" tvg-id="kultura-pl7",Россия К (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R02_ROSSIAK_YKT/variant.m3u8
 #EXTINF:-1 group-title="Якутск" tvg-id="rossia-24",Россия 24 (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R01_ROSSIA24_YKT/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="karusel-pl4",Карусель (Якутск)
+#EXTINF:-1 group-title="Якутск" tvg-id="karusel-pl7",Карусель (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R01_KARUSEL_YKT/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="rentv-pl4",РЕН ТВ (Якутск)
+#EXTINF:-1 group-title="Якутск" tvg-id="rentv-pl7",РЕН ТВ (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R02_RENTV_YKT/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="sts-pl4",СТС (Якутск)
+#EXTINF:-1 group-title="Якутск" tvg-id="sts-pl7",СТС (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R02_STS_YKT/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="domashny-pl4",Домашний (Якутск)
+#EXTINF:-1 group-title="Якутск" tvg-id="domashny-pl7",Домашний (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R04_DOMASHNY_YKT/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="tv3-ru-pl4",ТВ-3 (Якутск)
+#EXTINF:-1 group-title="Якутск" tvg-id="tv3-ru-pl7",ТВ-3 (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R01_TV3_YKT/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="piatnica-pl4",Пятница! (Якутск)
+#EXTINF:-1 group-title="Якутск" tvg-id="piatnica-pl7",Пятница! (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R01_FRIDAY_YKT/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="tnt-pl4",ТНТ (Якутск)
+#EXTINF:-1 group-title="Якутск" tvg-id="tnt-pl7",ТНТ (Якутск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R01_TNT_YKT/variant.m3u8
 #EXTINF:-1 group-title="Якутск" tvg-id="pervy-pl6",Первый (Республика Саха)
@@ -7157,31 +7331,31 @@ https://s34351.cdn.ngenix.net/hls/CH_R04_ROSSIA1_SAHA/variant.m3u8
 #EXTINF:-1 group-title="Якутск" tvg-id="match-tv",Матч ТВ (Республика Саха)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R01_MATCHTV_SAHA/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="ntv-pl4",НТВ (Республика Саха)
+#EXTINF:-1 group-title="Якутск" tvg-id="ntv-pl7",НТВ (Республика Саха)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R03_NTV_SAHA/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="5kanal-ru-pl4",Пятый (Республика Саха)
+#EXTINF:-1 group-title="Якутск" tvg-id="5kanal-ru-pl7",Пятый (Республика Саха)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R02_5TV_SAHA/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="kultura-pl4",Россия К (Республика Саха)
+#EXTINF:-1 group-title="Якутск" tvg-id="kultura-pl7",Россия К (Республика Саха)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R02_ROSSIAK_SAHA/variant.m3u8
 #EXTINF:-1 group-title="Якутск" tvg-id="rossia-24",Россия 24 (Республика Саха)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R01_ROSSIA24_SAHA/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="karusel-pl4",Карусель (Республика Саха)
+#EXTINF:-1 group-title="Якутск" tvg-id="karusel-pl7",Карусель (Республика Саха)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R01_KARUSEL_SAHA/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="rentv-pl4",РЕН ТВ (Республика Саха)
+#EXTINF:-1 group-title="Якутск" tvg-id="rentv-pl7",РЕН ТВ (Республика Саха)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R02_RENTV_SAHA/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="domashny-pl4",Домашний (Республика Саха)
+#EXTINF:-1 group-title="Якутск" tvg-id="domashny-pl7",Домашний (Республика Саха)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R04_DOMASHNY_SAHA/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="tv3-ru-pl4",ТВ-3 (Республика Саха)
+#EXTINF:-1 group-title="Якутск" tvg-id="tv3-ru-pl7",ТВ-3 (Республика Саха)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R01_TV3_SAHA/variant.m3u8
-#EXTINF:-1 group-title="Якутск" tvg-id="piatnica-pl4",Пятница! (Республика Саха)
+#EXTINF:-1 group-title="Якутск" tvg-id="piatnica-pl7",Пятница! (Республика Саха)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R01_FRIDAY_SAHA/variant.m3u8
 #EXTINF:-1 group-title="Якутск" tvg-id="saxa",НВК Саха (Якутск)
@@ -7304,16 +7478,16 @@ https://s84942.cdn.ngenix.net/hls/CH_R28_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Благовещенск" tvg-id="rossia-24",Россия 24 (Благовещенск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s84942.cdn.ngenix.net/hls/CH_R28_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Благовещенск" tvg-id="otr-pl4",ОТР (Благовещенск)
+#EXTINF:-1 group-title="Благовещенск" tvg-id="otr-pl6",ОТР (Благовещенск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s84942.cdn.ngenix.net/hls/CH_R28_OTR/variant.m3u8
-#EXTINF:-1 group-title="Благовещенск" tvg-id="tv3-ru-pl4",ТВ-3 (Благовещенск)
+#EXTINF:-1 group-title="Благовещенск" tvg-id="tv3-ru-pl7",ТВ-3 (Благовещенск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s84942.cdn.ngenix.net/hls/CH_R28_TV3/variant.m3u8
-#EXTINF:-1 group-title="Благовещенск" tvg-id="piatnica-pl4",Пятница! (Благовещенск)
+#EXTINF:-1 group-title="Благовещенск" tvg-id="piatnica-pl7",Пятница! (Благовещенск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s84942.cdn.ngenix.net/hls/CH_R28_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="Благовещенск" tvg-id="tnt-pl4",ТНТ (Благовещенск)
+#EXTINF:-1 group-title="Благовещенск" tvg-id="tnt-pl7",ТНТ (Благовещенск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s84942.cdn.ngenix.net/hls/CH_R28_TNT/variant.m3u8
 #EXTINF:-1 group-title="Благовещенск" tvg-id="1obl-blagoveschensk",Амурское Областное ТВ (Благовещенск)
@@ -7439,7 +7613,7 @@ https://s91030.cdn.ngenix.net/hls/CH_R25_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Владивосток" tvg-id="rossia-24",Россия 24 (Владивосток)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s91030.cdn.ngenix.net/hls/CH_R25_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Владивосток" tvg-id="otr-pl7",ОТР (Владивосток)
+#EXTINF:-1 group-title="Владивосток" tvg-id="otr-pl6",ОТР (Владивосток)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTR/variant.m3u8
 #EXTINF:-1 group-title="Владивосток" tvg-id="tv3-ru-pl7",ТВ-3 (Владивосток)
@@ -7556,7 +7730,7 @@ https://s97982.cdn.ngenix.net/hls/CH_R27_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Хабаровск" tvg-id="rossia-24",Россия 24 (Хабаровск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R27_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Хабаровск" tvg-id="otr-pl7",ОТР (Хабаровск)
+#EXTINF:-1 group-title="Хабаровск" tvg-id="otr-pl6",ОТР (Хабаровск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTR/variant.m3u8
 #EXTINF:-1 group-title="Хабаровск" tvg-id="tv3-ru-pl7",ТВ-3 (Хабаровск)
@@ -7580,7 +7754,7 @@ https://s97982.cdn.ngenix.net/hls/CH_R79_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Хабаровск" tvg-id="rossia-24",Россия 24 (Биробиджан)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R79_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Хабаровск" tvg-id="otr-pl7",ОТР (Биробиджан)
+#EXTINF:-1 group-title="Хабаровск" tvg-id="otr-pl6",ОТР (Биробиджан)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTR/variant.m3u8
 #EXTINF:-1 group-title="Хабаровск" tvg-id="tv3-ru-pl7",ТВ-3 (Биробиджан)
@@ -7601,7 +7775,7 @@ https://s97982.cdn.ngenix.net/hls/CH_R87_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Хабаровск" tvg-id="rossia-24",Россия 24 (Чукотка)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R87_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Хабаровск" tvg-id="otr-pl7",ОТР (Чукотка)
+#EXTINF:-1 group-title="Хабаровск" tvg-id="otr-pl8",ОТР (Чукотка)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R87_OTR/variant.m3u8
 #EXTINF:-1 group-title="Хабаровск" tvg-id="tv3-ru-pl7",ТВ-3 (Чукотка)
