@@ -467,7 +467,7 @@ http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
 #EXTINF:-1 tvg-id="okko-sport-2" group-title="Спортивные", Окко.Прайм Спорт
-http://185.221.213.254:8080/Okko/index.m3u8
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="inter-it" group-title="Спортивные", Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
@@ -2535,13 +2535,10 @@ http://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 https://stream-msk-11.ott.tricolor.tv/dtv/id935_MSKSG-PVR-1--AIVA_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
 
 #EXTINF:-1 tvg-id="aiva" group-title="Музыкальные", AIVA HD
-http://193.33.88.172/aiva_hd/tracks-v1a1/mono.m3u8
+http://185.78.112.17/aiva_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://twale.app/storage/channels/kpop.png" group-title="Музыкальные", Kpop Play TV
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mcm-top" group-title="Музыкальные", MCM Top
-http://193.27.209.122/mcm_top/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://sun9-12.userapi.com/dxomaWxMbPlW1MBpOeAWTCKnfXjUQ0bN-GydAw/brA6yuTSEys.jpg" group-title="Музыкальные", TMF RUS
 https://132544.edgevideo.ru/streams/132544_932351/1325441080/index.m3u8
