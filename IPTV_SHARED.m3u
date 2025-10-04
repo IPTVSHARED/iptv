@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/LOGO_FHD.mp4
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/QR.png" group-title="ИНФО", ПОДДЕРЖКА ПРОЕКТА
 https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/donat.mp4
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 04.10.2025г 11:05
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 04.10.2025г 11:20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -2093,14 +2093,8 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/p
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/c9b210d5-34b1-4b10-80c1-935a5495e86b" tvg-id="Мажор" group-title="Кинозалы 2", МАЖОР
 https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDE3MjI1OSwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5NTY3NDU5LCJzZXNzaW9uX2lkIjoiNWY1OTdkMjI2OWVkMTY3NzNkNjg4MjczOGJjNWI0NzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JM_ZWU0L4wGq1NypZ-QSxFC5DOdRPkfYJZ1KvZAB9zA
 
-#EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/1c611298-925b-4670-bcbd-f10f2b6b8a63" tvg-id="no_epg" group-title="Кинозалы 2", ДЫЛДЫ
-https://live-mirror-19.ott.tricolor.tv/dtv/id1037_MSKSG-PVR-1--Kinozal_31/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDE3MjI1OSwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5NTY3NDU5LCJzZXNzaW9uX2lkIjoiNWY1OTdkMjI2OWVkMTY3NzNkNjg4MjczOGJjNWI0NzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JM_ZWU0L4wGq1NypZ-QSxFC5DOdRPkfYJZ1KvZAB9zA
-
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/8e839863-898b-49a7-a6dc-ca27b5dba240" tvg-id="no_epg_cinema" group-title="Кинозалы 2", БАНДИТСКИЙ ПЕТЕРБУРГ
 https://live-mirror-20.ott.tricolor.tv/dtv/id1038_MSKSG-PVR-1--Kinozal_32/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDE3MjI1OSwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5NTY3NDU5LCJzZXNzaW9uX2lkIjoiNWY1OTdkMjI2OWVkMTY3NzNkNjg4MjczOGJjNWI0NzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JM_ZWU0L4wGq1NypZ-QSxFC5DOdRPkfYJZ1KvZAB9zA
-
-#EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/40dcffa8-1371-47c2-b9e7-1e3c64c6076f" tvg-id="no_epg_cinema" group-title="Кинозалы 2", ВОСТОК-ЗАПАД
-https://live-mirror-18.ott.tricolor.tv/dtv/id1035_MSKSG-PVR-1--Kinozal_33/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDE3MjI1OSwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5NTY3NDU5LCJzZXNzaW9uX2lkIjoiNWY1OTdkMjI2OWVkMTY3NzNkNjg4MjczOGJjNWI0NzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JM_ZWU0L4wGq1NypZ-QSxFC5DOdRPkfYJZ1KvZAB9zA
 
 #EXTINF:-1 group-title="Кинозалы 3",BCU Action HD
 http://178.217.72.67:8080/BCUActionHD/index.m3u8
